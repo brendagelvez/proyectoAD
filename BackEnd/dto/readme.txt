@@ -1,0 +1,1 @@
+// El dto encargado de tener las clases para poder hacer encapsulamiento de la info que necesita ser enviada
