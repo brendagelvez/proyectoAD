@@ -1,1 +1,0 @@
-// encargado de realizar todo lo relacionado con la base de datos 

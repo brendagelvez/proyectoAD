@@ -1,1 +1,0 @@
-// los controladores dependiendo del tipo de usuario estos tienen los metodos a realizar , posee las validaciones necesarias 
