@@ -4,12 +4,12 @@
             <div class="section group example">
                 <div class="col_1_of_2 span_1_of_2">
                     <ul class="f-list">
-                        <li><img src="/images/2.png"><span class="f-text">Free Shipping on orders over $ 100</span><div class="clear"></div></li>
+                        <li><img src="./images/2.png"><span class="f-text">Entrega gratis por compras de $ 100</span><div class="clear"></div></li>
                     </ul>
                 </div>
                 <div class="col_1_of_2 span_1_of_2">
                     <ul class="f-list">
-                        <li><img src="/images/3.png"><span class="f-text">Call us! toll free-222-555-6666 </span><div class="clear"></div></li>
+                        <li><img src="./images/3.png"><span class="f-text">Llamenos! a 222-555-6666 </span><div class="clear"></div></li>
                     </ul>
                 </div>
                 <div class="clear"></div>
@@ -113,7 +113,7 @@
                             </div>
                         </div>
                         <div class="col_1_of_f_2 span_1_of_f_2">
-                            <h3>From Twitter</h3>
+                            <h3>En Twitter</h3>
                             <div class="recent-tweet">
                                 <div class="recent-tweet-icon">
                                     <span> </span>
@@ -139,7 +139,7 @@
                 <div class="col_1_of_f_1 span_1_of_f_1">
                     <div class="section group example">
                         <div class="col_1_of_f_2 span_1_of_f_2">
-                            <h3>Information</h3>
+                            <h3>Informacion</h3>
                             <ul class="f-list1">
                                 <li><a href="#">Duis autem vel eum iriure </a></li>
                                 <li><a href="#">anteposuerit litterarum formas </a></li>
@@ -150,7 +150,7 @@
                             </ul>
                         </div>
                         <div class="col_1_of_f_2 span_1_of_f_2">
-                            <h3>Contact us</h3>
+                            <h3>Contactenos</h3>
                             <div class="company_address">
                                 <p>500 Lorem Ipsum Dolor Sit,</p>
                                 <p>22-56-2-9 Sit Amet, Lorem,</p>
@@ -183,10 +183,10 @@
             </div>
             <div class="f-list2">
                 <ul>
-                    <li class="active"><a href="about.php">About Us</a></li> |
-                    <li><a href="delivery.php">Delivery & Returns</a></li> |
-                    <li><a href="delivery.php">Terms & Conditions</a></li> |
-                    <li><a href="contact.php">Contact Us</a></li>
+                    <li class="active"><a href="about.php">Sobre nosotros</a></li> |
+                    <li><a href="delivery.php">Entregas y devoluciones</a></li> |
+                    <li><a href="delivery.php">Terminos y condiciones</a></li> |
+                    <li><a href="contact.php">Contactenos</a></li>
                 </ul>
             </div>
             <div class="clear"></div>

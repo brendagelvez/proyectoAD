@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Free Leoshop Website Template | Home :: w3layouts</title>
+    <title>Web Avicola | Productos</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link href="./css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -32,28 +32,30 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="header-top-left">
             <div class="box">
                 <select tabindex="4" class="dropdown">
-                    <option value="" class="label" value="">Language :</option>
+                    <option value="" class="label" value="">Lenguage :</option>
                     <option value="1">English</option>
+                    <option value="1">Peso</option>
                     <option value="2">French</option>
                     <option value="3">German</option>
                 </select>
             </div>
             <div class="box1">
                 <select tabindex="4" class="dropdown">
-                    <option value="" class="label" value="">Currency :</option>
+                    <option value="" class="label" value="">Moneda :</option>
                     <option value="1">$ Dollar</option>
                     <option value="2">€ Euro</option>
+                    <option value="3">$ Peso</option>
                 </select>
             </div>
             <div class="clear"></div>
         </div>
         <div class="cssmenu">
             <ul>
-                <li class="active"><a href="login.php">Account</a></li> |
-                <li><a href="checkout.php">Wishlist</a></li> |
+                <li class="active"><a href="login.php">Cuenta</a></li> |
+                <li><a href="checkout.php">Lista de deseo</a></li> |
                 <li><a href="checkout.php">Checkout</a></li> |
-                <li><a href="login.php">Log In</a></li> |
-                <li><a href="register.php">Sign Up</a></li>
+                <li><a href="login.php">Iniciar sesion</a></li> |
+                <li><a href="register.php">Registrarse</a></li>
             </ul>
         </div>
         <div class="clear"></div>
@@ -67,93 +69,52 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="menu">
                 <ul class="megamenu skyblue">
-                    <li class="active grid"><a href="index.php">Home</a></li>
-                    <li><a class="color4" href="womens.php">women</a>
-                        <div class="megapanel">
-                            <div class="row">
-                                <div class="col1">
-                                    <div class="h_nav">
-                                        <h4>Contact Lenses</h4>
-                                        <ul>
-                                            <li><a href="womens.php">Daily-wear soft lenses</a></li>
-                                            <li><a href="womens.php">Extended-wear</a></li>
-                                            <li><a href="womens.php">Lorem ipsum </a></li>
-                                            <li><a href="womens.php">Planned replacement</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col1">
-                                    <div class="h_nav">
-                                        <h4>Sun Glasses</h4>
-                                        <ul>
-                                            <li><a href="womens.php">Heart-Shaped</a></li>
-                                            <li><a href="womens.php">Square-Shaped</a></li>
-                                            <li><a href="womens.php">Round-Shaped</a></li>
-                                            <li><a href="womens.php">Oval-Shaped</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col1">
-                                    <div class="h_nav">
-                                        <h4>Eye Glasses</h4>
-                                        <ul>
-                                            <li><a href="womens.php">Anti Reflective</a></li>
-                                            <li><a href="womens.php">Aspheric</a></li>
-                                            <li><a href="womens.php">Bifocal</a></li>
-                                            <li><a href="womens.php">Hi-index</a></li>
-                                            <li><a href="womens.php">Progressive</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <li class="active grid"><a href="index.php">Inicio</a></li>
+                    <li><a class="color4" href="about.php">Sobre nosostros</a>
+
                     </li>
-                    <li><a class="color5" href="mens.php">Men</a>
+                    <li><a class="color5" href="other.php">Productos</a>
                         <div class="megapanel">
                             <div class="col1">
                                 <div class="h_nav">
-                                    <h4>Contact Lenses</h4>
+                                    <h4>Servicio de granja</h4>
                                     <ul>
-                                        <li><a href="mens.html">Daily-wear soft lenses</a></li>
-                                        <li><a href="mens.html">Extended-wear</a></li>
-                                        <li><a href="mens.html">Lorem ipsum </a></li>
-                                        <li><a href="mens.html">Planned replacement</a></li>
+                                        <li><a href="other.php">Produccion</a></li>
+                                        <li><a href="other.php">Cuidado</a></li>
+                                        <li><a href="other.php">Crianza </a></li>
+
                                     </ul>
                                 </div>
                             </div>
                             <div class="col1">
                                 <div class="h_nav">
-                                    <h4>Sun Glasses</h4>
+                                    <h4>Gallinas</h4>
                                     <ul>
-                                        <li><a href="mens.html">Heart-Shaped</a></li>
-                                        <li><a href="mens.html">Square-Shaped</a></li>
-                                        <li><a href="mens.html">Round-Shaped</a></li>
-                                        <li><a href="mens.html">Oval-Shaped</a></li>
+                                        <li><a href="other.php">Compra</a></li>
+                                        <li><a href="other.php">Venta</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col1">
                                 <div class="h_nav">
-                                    <h4>Eye Glasses</h4>
+                                    <h4>Huevos</h4>
                                     <ul>
-                                        <li><a href="mens.html">Anti Reflective</a></li>
-                                        <li><a href="mens.html">Aspheric</a></li>
-                                        <li><a href="mens.html">Bifocal</a></li>
-                                        <li><a href="mens.html">Hi-index</a></li>
-                                        <li><a href="mens.html">Progressive</a></li>
+                                        <li><a href="other.php">Pedido masivo</a></li>
+                                        <li><a href="other.php">Por carton</a></li>
+                                        <li><a href="other.php">Ofertas</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </li>
-                    <li><a class="color6" href="other.php">Other</a></li>
-                    <li><a class="color7" href="other.php">Purchase</a></li>
+                    <li><a class="color6" href="other.php">Servicios</a></li>
+
                 </ul>
             </div>
         </div>
         <div class="header-bottom-right">
             <div class="search">
-                <input type="text" name="s" class="textbox" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+                <input type="text" name="s" class="textbox" value="Buscar" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
                 <input type="submit" value="Subscribe" id="submit" name="submit">
                 <div id="response"> </div>
             </div>
@@ -163,18 +124,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <ul class="sub-icon1 list">
                             <li><h3>sed diam nonummy</h3><a href=""></a></li>
                             <li><p>Lorem ipsum dolor sit amet, consectetuer  <a href="">adipiscing elit, sed diam</a></p></li>
+
                         </ul>
                     </li>
                 </ul>
                 <ul class="icon1 sub-icon1 profile_img">
                     <li><a class="active-icon c2" href="#"> </a>
                         <ul class="sub-icon1 list">
-                            <li><h3>No Products</h3><a href=""></a></li>
-                            <li><p>Lorem ipsum dolor sit amet, consectetuer  <a href="">adipiscing elit, sed diam</a></p></li>
+                            <li><h3>Productos</h3><a href=""></a></li>
+                            <li><p><a href="">Carton de huevos 1: $ 12.000</a></p></li>
+                            <li><p><a href="">Carton de huevos 2: $ 12.000</a></p></li>
+                            <li><p><a href="">Carton de huevos 3: $ 12.000</a></p></li>
+
                         </ul>
                     </li>
                 </ul>
-                <ul class="last"><li><a href="#">Cart(0)</a></li></ul>
+                <ul class="last"><li><a href="checkout.php">Carrito(3)</a></li></ul>
             </div>
         </div>
         <div class="clear"></div>

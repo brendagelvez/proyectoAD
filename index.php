@@ -42,7 +42,7 @@
 	<div class="wrap">
 		<div class="section group">
 		  <div class="cont span_2_of_3">
-		  	<h2 class="head">Featured Products</h2>
+		  	<h2 class="head">Productos disponibles</h2>
 			<div class="top-box">
 			 <div class="col_1_of_3 span_1_of_3"> 
 			   <a href="single.html">
@@ -377,16 +377,16 @@
                 <img src="images/t-img3.jpg"  alt="" />
               </div>
              </div>
-              <div class="btn"><a href="single.html">Check it Out</a></div>
+              <div class="btn"><a href="single.html">Productos de calidad</a></div>
              </div>
            <div class="top-border"> </div>
 			<div class="sidebar-bottom">
-			    <h2 class="m_1">Newsletters<br> Signup</h2>
-			    <p class="m_text">Lorem ipsum dolor sit amet, consectetuer</p>
+			    <h2 class="m_1">Para recibir ofertas,<br> suscribete</h2>
+			    <p class="m_text">Introduce tu correo electronico, para recibir una alerta cada vez que exista una oferta.</p>
 			    <div class="subscribe">
 					 <form>
 					    <input name="userName" type="text" class="textbox">
-					    <input type="submit" value="Subscribe">
+					    <input type="submit" value="Subscribete">
 					 </form>
 	  			</div>
 			</div>
