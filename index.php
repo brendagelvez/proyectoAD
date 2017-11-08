@@ -377,7 +377,7 @@
                 <img src="images/t-img3.jpg"  alt="" />
               </div>
              </div>
-              <div class="btn"><a href="single.html">Productos de calidad</a></div>
+              <div class="btn"><a href="single.html">100% Calidad</a></div>
              </div>
            <div class="top-border"> </div>
 			<div class="sidebar-bottom">
