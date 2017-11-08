@@ -67,18 +67,19 @@
                                 </div>
                             </a>
                         </div>
+                        <div class="button1">
+                            <a href="realizarpago.php"><input type="submit" name="Submit" value="Confirmar compra"></a>
+                        </div>
+
                         <div class="clear"></div>
                     </div>
 
 
                         <div class="clear"></div>
                     </div>
+
                 </div>
-            <div class="rsidebar span_1_of_left">
-                <h5 class="m_1">Recibo</h5>
-                <img src="./images/recibo.jpg" alt=""/>
 
-            </div>
         </div>
     </div>
     <div class="clear"></div>

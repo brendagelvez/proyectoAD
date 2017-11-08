@@ -36,9 +36,9 @@
               <div class="info d-flex align-items-center">
                 <div class="content">
                   <div class="logo">
-                    <h1>Bienvenido</h1>
+                    <h1>Registrate</h1>
                   </div>
-                  <p>Electro Cúcuta Ltda, Materiales Electricos</p>
+                  <p>Electro Cúcuta Ltda, Materiales Electricos.</p>
                 </div>
               </div>
             </div>
@@ -46,24 +46,40 @@
             <div class="col-lg-6 bg-white">
               <div class="form d-flex align-items-center">
                 <div class="content">
-                  <form id="login-form" method="post">
+                  <form id="register-form">
                     <div class="form-group">
-                      <input id="login-username" type="text" name="loginUsername" required="" class="input-material">
-                      <label for="login-username" class="label-material">Usuario</label>
+                      <input id="register-firstname" type="text" name="registerFirstName" required class="input-material">
+                      <label for="register-firstname" class="label-material">Nombres</label>
                     </div>
                     <div class="form-group">
-                      <input id="login-password" type="password" name="loginPassword" required="" class="input-material">
-                      <label for="login-password" class="label-material">Contraseña</label>
-                    </div><a id="login" href="index.html" class="btn btn-primary">Iniciar Sesión</a>
-                    <!-- This should be submit button but I replaced it with <a> for demo purposes-->
-                  </form><a href="#" class="forgot-pass">Olvidaste tu contraseña?</a><br><small>No tienes una cuenta? </small><a href="register.html" class="signup">Registrate</a>
+                      <input id="register-lastname" type="text" name="registerLastName" required class="input-material">
+                      <label for="register-lastname" class="label-material">Apellidos</label>
+                    </div>
+                    <div class="form-group">
+                      <input id="register-id" type="number" name="registerId" required class="input-material">
+                      <label for="register-id" class="label-material">Cedula</label>
+                    </div>
+                    <div class="form-group">
+                      <input id="register-email" type="email" name="registerEmail" required class="input-material">
+                      <label for="register-email" class="label-material">Dirección de correo</label>
+                    </div>
+                    <div class="form-group">
+                      <input id="register-passowrd" type="password" name="registerPassword" required class="input-material">
+                      <label for="register-passowrd" class="label-material">Contraseña</label>
+                    </div>
+                    <div class="form-group terms-conditions">
+                      <input id="license" type="checkbox" class="checkbox-template">
+                      <label for="license">Estoy de acuerdo con los terminos y condiciones</label>
+                    </div>
+                    <input id="register" type="submit" value="Registrar" class="btn btn-primary">
+                  </form><small>¿Ya tienes una cuenta? </small><a href="login.php" class="signup">Inicia Sesión</a>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      
+     
     </div>
     <!-- Javascript files-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
