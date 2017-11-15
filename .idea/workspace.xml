@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10dac919-4d27-44e2-a1ee-0a4be129329b" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/404.php" afterPath="$PROJECT_DIR$/FrontEnd/404.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/charts.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/charts.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/credits.txt" afterPath="$PROJECT_DIR$/FrontEnd/Admin/credits.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/bootstrap.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/custom.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/font-awesome.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/owl.video.play.png" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/owl.video.play.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.blue.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.blue.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.default.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.green.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.green.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.pink.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.pink.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.red.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.red.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.sea.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.sea.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.violet.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.violet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/forms.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/forms.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/fonts/dashboard.eot" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/fonts/dashboard.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/fonts/dashboard.svg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/fonts/dashboard.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/fonts/dashboard.ttf" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/fonts/dashboard.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/fonts/dashboard.woff" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/fonts/dashboard.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/icons-reference.html" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/icons-reference.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/styles.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-4.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-5.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-6.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/bg.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/favicon.ico" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/project-1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/project-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/project-2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/project-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/project-3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/project-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/project-4.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/project-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/template-mac.png" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/template-mac.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/includes/footer.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/includes/footerL.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/footerL.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/includes/header.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/header.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/includes/headerL.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/headerL.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/index.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/bootstrap.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/charts-custom.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/charts-custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/charts-home.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/charts-home.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/front.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/front.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/jquery.cookie.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/jquery.cookie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/jquery.validate.min.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/jquery.validate.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/tether.min.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/tether.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/license.txt" afterPath="$PROJECT_DIR$/FrontEnd/Admin/license.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/login.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/login.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/readme.txt" afterPath="$PROJECT_DIR$/FrontEnd/Admin/readme.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/register.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/register.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/tables.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/tables.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/verificacion.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/verificacion.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Colores" afterPath="$PROJECT_DIR$/FrontEnd/Colores" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/FrontEnd/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/FrontEnd/about.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin-panel.php" afterPath="$PROJECT_DIR$/FrontEnd/admin-panel.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/checkout.php" afterPath="$PROJECT_DIR$/FrontEnd/checkout.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/FrontEnd/contact.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/default.css" afterPath="$PROJECT_DIR$/FrontEnd/css/default.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/etalage.css" afterPath="$PROJECT_DIR$/FrontEnd/css/etalage.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/form.css" afterPath="$PROJECT_DIR$/FrontEnd/css/form.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fwslider.css" afterPath="$PROJECT_DIR$/FrontEnd/css/fwslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/magnific-popup.css" afterPath="$PROJECT_DIR$/FrontEnd/css/magnific-popup.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/megamenu.css" afterPath="$PROJECT_DIR$/FrontEnd/css/megamenu.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/nivo-slider.css" afterPath="$PROJECT_DIR$/FrontEnd/css/nivo-slider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/FrontEnd/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/zoome-min.css" afterPath="$PROJECT_DIR$/FrontEnd/css/zoome-min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/delivery.php" afterPath="$PROJECT_DIR$/FrontEnd/delivery.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/2.png" afterPath="$PROJECT_DIR$/FrontEnd/images/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/3.png" afterPath="$PROJECT_DIR$/FrontEnd/images/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="$PROJECT_DIR$/FrontEnd/images/Thumbs.db" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/a-img.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/a-img.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/a-img1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/a-img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/a-img2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/a-img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arrow.png" afterPath="$PROJECT_DIR$/FrontEnd/images/arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arrow1.png" afterPath="$PROJECT_DIR$/FrontEnd/images/arrow1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arrow2.gif" afterPath="$PROJECT_DIR$/FrontEnd/images/arrow2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arrows.png" afterPath="$PROJECT_DIR$/FrontEnd/images/arrows.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/b-arrow.png" afterPath="$PROJECT_DIR$/FrontEnd/images/b-arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/banner.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/banner1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/banner1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart.png" afterPath="$PROJECT_DIR$/FrontEnd/images/cart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart.psd" afterPath="$PROJECT_DIR$/FrontEnd/images/cart.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart2.png" afterPath="$PROJECT_DIR$/FrontEnd/images/cart2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart2.psd" afterPath="$PROJECT_DIR$/FrontEnd/images/cart2.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart3.png" afterPath="$PROJECT_DIR$/FrontEnd/images/cart3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/down-arrow.png" afterPath="$PROJECT_DIR$/FrontEnd/images/down-arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/f-icon.png" afterPath="$PROJECT_DIR$/FrontEnd/images/f-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/f-tw.png" afterPath="$PROJECT_DIR$/FrontEnd/images/f-tw.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/header_arrow.png" afterPath="$PROJECT_DIR$/FrontEnd/images/header_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/img-sprite.png" afterPath="$PROJECT_DIR$/FrontEnd/images/img-sprite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/left-banner1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/left-banner1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/list_marker.png" afterPath="$PROJECT_DIR$/FrontEnd/images/list_marker.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/FrontEnd/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/logo.psd" afterPath="$PROJECT_DIR$/FrontEnd/images/logo.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/magnify-alt.png" afterPath="$PROJECT_DIR$/FrontEnd/images/magnify-alt.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/minus.gif" afterPath="$PROJECT_DIR$/FrontEnd/images/minus.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic4.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic5.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic6.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic7.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic8.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/plus.gif" afterPath="$PROJECT_DIR$/FrontEnd/images/plus.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/quotes.png" afterPath="$PROJECT_DIR$/FrontEnd/images/quotes.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s-img.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s-img.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s-img1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s-img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s-img2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s-img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s-img3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s-img3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s4.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s5.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s6.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s7.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s8.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s9.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/search.png" afterPath="$PROJECT_DIR$/FrontEnd/images/search.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/t-img1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/t-img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/t-img2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/t-img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/t-img3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/t-img3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/tag.png" afterPath="$PROJECT_DIR$/FrontEnd/images/tag.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/zoom.png" afterPath="$PROJECT_DIR$/FrontEnd/images/zoom.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="$PROJECT_DIR$/FrontEnd/includes/footer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/includes/header.php" afterPath="$PROJECT_DIR$/FrontEnd/includes/header.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/FrontEnd/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/css3-mediaqueries.js" afterPath="$PROJECT_DIR$/FrontEnd/js/css3-mediaqueries.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/fwslider.js" afterPath="$PROJECT_DIR$/FrontEnd/js/fwslider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery-ui.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.easydropdown.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.easydropdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.etalage.min.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.etalage.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.flexisel.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.flexisel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.jscrollpane.min.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.jscrollpane.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.magnific-popup.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.nivo.slider.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.nivo.slider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery1.min.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/login.js" afterPath="$PROJECT_DIR$/FrontEnd/js/login.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/megamenu.js" afterPath="$PROJECT_DIR$/FrontEnd/js/megamenu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/slides.min.jquery.js" afterPath="$PROJECT_DIR$/FrontEnd/js/slides.min.jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/zoome-e.js" afterPath="$PROJECT_DIR$/FrontEnd/js/zoome-e.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/FrontEnd/login.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mens.php" afterPath="$PROJECT_DIR$/FrontEnd/mens.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/other.php" afterPath="$PROJECT_DIR$/FrontEnd/other.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/realizarpago.php" afterPath="$PROJECT_DIR$/FrontEnd/realizarpago.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/FrontEnd/register.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/single.php" afterPath="$PROJECT_DIR$/FrontEnd/single.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/w3layouts-license.txt" afterPath="$PROJECT_DIR$/FrontEnd/w3layouts-license.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/womens.php" afterPath="$PROJECT_DIR$/FrontEnd/womens.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/web.iml" afterPath="$PROJECT_DIR$/.idea/web.iml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="proyectoAD" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyectoAD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyectoAD" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontEnd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\proyectoAD\FrontEnd" />
+    </key>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10dac919-4d27-44e2-a1ee-0a4be129329b" name="Default" comment="" />
+      <created>1508764727166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508764727166</updated>
+      <workItem from="1508764738278" duration="147000" />
+      <workItem from="1509731564262" duration="83000" />
+      <workItem from="1510753534845" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="529000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8494624" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

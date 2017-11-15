@@ -4,7 +4,7 @@
         <div class="main">
             <div class="wrap">
                 <div class="cont span_2_of_3">
-                    <h2 class="head">Realizar pago</h2>
+                    <h2 class="head">Carro de compras</h2>
 
                     <div class="top-box">
                         <div class="col_1_of_3 span_1_of_3">
@@ -75,15 +75,11 @@
                     </div>
 
 
-                    <div class="clear"></div>
+                        <div class="clear"></div>
+                    </div>
+
                 </div>
 
-            </div>
-            <div class="rsidebar span_1_of_left">
-                <h5 class="m_1">Recibo</h5>
-                <img src="./images/recibo.jpg" alt=""/>
-
-            </div>
         </div>
     </div>
     <div class="clear"></div>

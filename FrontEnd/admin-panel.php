@@ -1,5 +1,5 @@
-<script src="./js/admin.js"></script>
-<link href="./css/style.css" rel="stylesheet" type="text/css" media="all" />
+<script src="js/admin.js"></script>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <section>
     <header>
         <nav class="rad-navigation">

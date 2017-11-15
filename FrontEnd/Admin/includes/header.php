@@ -118,7 +118,7 @@
             </div>
             <!-- Sidebar Navidation Menus--><span class="heading">Main</span>
             <ul class="list-unstyled">
-                <li class="active"> <a href="./"><i class="icon-home"></i>Inicio</a></li>
+                <li class="active"> <a href=""><i class="icon-home"></i>Inicio</a></li>
 
                 <li> <a href="tables.php"> <i class="fa fa-user-o"></i>Gestion de usuarios</a></li>
                 <li> <a href="charts.php"> <i class="fa fa-bar-chart"></i>Charts </a></li>
