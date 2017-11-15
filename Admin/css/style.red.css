@@ -1895,13 +1895,13 @@ STYLE SWITCHER FOR DEMO
 
 .navbar-light .navbar-brand,
 .navbar-light .navbar-toggler {
-  color: rgba(0, 0, 0, 0.9);
+  color: #e8933e;
 }
 
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover,
 .navbar-light .navbar-toggler:focus,
 .navbar-light .navbar-toggler:hover {
-  color: rgba(0, 0, 0, 0.9);
+  color: #e8933e;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -1920,7 +1920,7 @@ STYLE SWITCHER FOR DEMO
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.open,
 .navbar-light .navbar-nav .nav-link.active {
-  color: rgba(0, 0, 0, 0.9);
+  color: #e8933e;
 }
 
 .navbar-light .navbar-toggler {

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Electro Cúcuta</title>
+    <title>Web Avicola</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -43,8 +43,8 @@
                     <!-- Navbar Header-->
                     <div class="navbar-header">
                         <!-- Navbar Brand --><a href="index.php" class="navbar-brand">
-                            <div class="brand-text brand-big hidden-lg-down"><span>Electro Cúcuta </span><strong>Ltda</strong></div>
-                            <div class="brand-text brand-small"><strong>EC</strong></div></a>
+                            <div class="brand-text brand-big hidden-lg-down"><span>Web </span><strong>Avicola</strong></div>
+                            <div class="brand-text brand-small"><strong>WA</strong></div></a>
                         <!-- Toggle Button--><a id="toggle-btn" href="#" class="menu-btn active"><span></span><span></span><span></span></a>
                     </div>
                     <!-- Navbar Menu -->
@@ -118,16 +118,9 @@
             </div>
             <!-- Sidebar Navidation Menus--><span class="heading">Main</span>
             <ul class="list-unstyled">
-                <li class="active"> <a href="./"><i class="icon-home"></i>Home</a></li>
-                <li><a href="#dashvariants" aria-expanded="false" data-toggle="collapse"> <i class="icon-interface-windows"></i>Dropdown </a>
-                    <ul id="dashvariants" class="collapse list-unstyled">
-                        <li><a href="#">Page</a></li>
-                        <li><a href="#">Page</a></li>
-                        <li><a href="#">Page</a></li>
-                        <li><a href="#">Page</a></li>
-                    </ul>
-                </li>
-                <li> <a href="tables.php"> <i class="icon-grid"></i>Tables </a></li>
+                <li class="active"> <a href="./"><i class="icon-home"></i>Inicio</a></li>
+
+                <li> <a href="tables.php"> <i class="fa fa-user-o"></i>Gestion de usuarios</a></li>
                 <li> <a href="charts.php"> <i class="fa fa-bar-chart"></i>Charts </a></li>
                 <li> <a href="forms.php"> <i class="icon-padnote"></i>Forms </a></li>
                 <li> <a href="login.php"> <i class="icon-interface-windows"></i>Login Page</a></li>
