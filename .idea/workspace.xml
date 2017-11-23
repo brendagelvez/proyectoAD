@@ -1,171 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10dac919-4d27-44e2-a1ee-0a4be129329b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/404.php" afterPath="$PROJECT_DIR$/FrontEnd/404.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/charts.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/charts.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/credits.txt" afterPath="$PROJECT_DIR$/FrontEnd/Admin/credits.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/bootstrap.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/custom.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/font-awesome.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/owl.video.play.png" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/owl.video.play.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.blue.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.blue.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.default.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.green.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.green.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.pink.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.pink.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.red.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.red.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.sea.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.sea.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/css/style.violet.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.violet.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/FrontEnd/Admin/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/forms.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/forms.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/fonts/dashboard.eot" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/fonts/dashboard.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/fonts/dashboard.svg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/fonts/dashboard.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/fonts/dashboard.ttf" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/fonts/dashboard.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/fonts/dashboard.woff" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/fonts/dashboard.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/icons-reference.html" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/icons-reference.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/icons-reference/styles.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/icons-reference/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-4.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-5.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/avatar-6.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/avatar-6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/bg.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/favicon.ico" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/project-1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/project-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/project-2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/project-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/project-3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/project-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/project-4.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/project-4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/img/template-mac.png" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/template-mac.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/includes/footer.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/includes/footerL.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/footerL.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/includes/header.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/header.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/includes/headerL.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/headerL.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/index.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/bootstrap.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/charts-custom.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/charts-custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/charts-home.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/charts-home.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/front.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/front.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/jquery.cookie.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/jquery.cookie.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/jquery.validate.min.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/jquery.validate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/js/tether.min.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/tether.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/license.txt" afterPath="$PROJECT_DIR$/FrontEnd/Admin/license.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/login.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/login.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/readme.txt" afterPath="$PROJECT_DIR$/FrontEnd/Admin/readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/register.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/register.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/tables.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/tables.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Admin/verificacion.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/verificacion.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Colores" afterPath="$PROJECT_DIR$/FrontEnd/Colores" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/FrontEnd/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/FrontEnd/about.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin-panel.php" afterPath="$PROJECT_DIR$/FrontEnd/admin-panel.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/checkout.php" afterPath="$PROJECT_DIR$/FrontEnd/checkout.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/FrontEnd/contact.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/default.css" afterPath="$PROJECT_DIR$/FrontEnd/css/default.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/etalage.css" afterPath="$PROJECT_DIR$/FrontEnd/css/etalage.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/form.css" afterPath="$PROJECT_DIR$/FrontEnd/css/form.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fwslider.css" afterPath="$PROJECT_DIR$/FrontEnd/css/fwslider.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/magnific-popup.css" afterPath="$PROJECT_DIR$/FrontEnd/css/magnific-popup.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/megamenu.css" afterPath="$PROJECT_DIR$/FrontEnd/css/megamenu.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/nivo-slider.css" afterPath="$PROJECT_DIR$/FrontEnd/css/nivo-slider.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/FrontEnd/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/zoome-min.css" afterPath="$PROJECT_DIR$/FrontEnd/css/zoome-min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/delivery.php" afterPath="$PROJECT_DIR$/FrontEnd/delivery.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/2.png" afterPath="$PROJECT_DIR$/FrontEnd/images/2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/3.png" afterPath="$PROJECT_DIR$/FrontEnd/images/3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="$PROJECT_DIR$/FrontEnd/images/Thumbs.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/a-img.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/a-img.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/a-img1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/a-img1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/a-img2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/a-img2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arrow.png" afterPath="$PROJECT_DIR$/FrontEnd/images/arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arrow1.png" afterPath="$PROJECT_DIR$/FrontEnd/images/arrow1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arrow2.gif" afterPath="$PROJECT_DIR$/FrontEnd/images/arrow2.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arrows.png" afterPath="$PROJECT_DIR$/FrontEnd/images/arrows.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/b-arrow.png" afterPath="$PROJECT_DIR$/FrontEnd/images/b-arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/banner1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/banner1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart.png" afterPath="$PROJECT_DIR$/FrontEnd/images/cart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart.psd" afterPath="$PROJECT_DIR$/FrontEnd/images/cart.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart2.png" afterPath="$PROJECT_DIR$/FrontEnd/images/cart2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart2.psd" afterPath="$PROJECT_DIR$/FrontEnd/images/cart2.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cart3.png" afterPath="$PROJECT_DIR$/FrontEnd/images/cart3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/down-arrow.png" afterPath="$PROJECT_DIR$/FrontEnd/images/down-arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/f-icon.png" afterPath="$PROJECT_DIR$/FrontEnd/images/f-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/f-tw.png" afterPath="$PROJECT_DIR$/FrontEnd/images/f-tw.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/header_arrow.png" afterPath="$PROJECT_DIR$/FrontEnd/images/header_arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/img-sprite.png" afterPath="$PROJECT_DIR$/FrontEnd/images/img-sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/left-banner1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/left-banner1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/list_marker.png" afterPath="$PROJECT_DIR$/FrontEnd/images/list_marker.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/FrontEnd/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/logo.psd" afterPath="$PROJECT_DIR$/FrontEnd/images/logo.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/magnify-alt.png" afterPath="$PROJECT_DIR$/FrontEnd/images/magnify-alt.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/minus.gif" afterPath="$PROJECT_DIR$/FrontEnd/images/minus.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic4.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic5.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic6.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic7.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic8.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/pic8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/plus.gif" afterPath="$PROJECT_DIR$/FrontEnd/images/plus.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/quotes.png" afterPath="$PROJECT_DIR$/FrontEnd/images/quotes.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s-img.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s-img.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s-img1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s-img1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s-img2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s-img2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s-img3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s-img3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s4.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s5.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s6.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s7.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s8.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/s9.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/search.png" afterPath="$PROJECT_DIR$/FrontEnd/images/search.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/t-img1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/t-img1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/t-img2.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/t-img2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/t-img3.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/t-img3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/tag.png" afterPath="$PROJECT_DIR$/FrontEnd/images/tag.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/zoom.png" afterPath="$PROJECT_DIR$/FrontEnd/images/zoom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="$PROJECT_DIR$/FrontEnd/includes/footer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/includes/header.php" afterPath="$PROJECT_DIR$/FrontEnd/includes/header.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/FrontEnd/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/css3-mediaqueries.js" afterPath="$PROJECT_DIR$/FrontEnd/js/css3-mediaqueries.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/fwslider.js" afterPath="$PROJECT_DIR$/FrontEnd/js/fwslider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery-ui.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.easydropdown.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.easydropdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.etalage.min.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.etalage.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.flexisel.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.flexisel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.jscrollpane.min.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.jscrollpane.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.magnific-popup.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.nivo.slider.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery.nivo.slider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery1.min.js" afterPath="$PROJECT_DIR$/FrontEnd/js/jquery1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/login.js" afterPath="$PROJECT_DIR$/FrontEnd/js/login.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/megamenu.js" afterPath="$PROJECT_DIR$/FrontEnd/js/megamenu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/slides.min.jquery.js" afterPath="$PROJECT_DIR$/FrontEnd/js/slides.min.jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/zoome-e.js" afterPath="$PROJECT_DIR$/FrontEnd/js/zoome-e.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/FrontEnd/login.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mens.php" afterPath="$PROJECT_DIR$/FrontEnd/mens.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/other.php" afterPath="$PROJECT_DIR$/FrontEnd/other.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/realizarpago.php" afterPath="$PROJECT_DIR$/FrontEnd/realizarpago.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/FrontEnd/register.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/single.php" afterPath="$PROJECT_DIR$/FrontEnd/single.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/w3layouts-license.txt" afterPath="$PROJECT_DIR$/FrontEnd/w3layouts-license.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/womens.php" afterPath="$PROJECT_DIR$/FrontEnd/womens.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/web.iml" afterPath="$PROJECT_DIR$/.idea/web.iml" />
+    <list default="true" id="10dac919-4d27-44e2-a1ee-0a4be129329b" name="Default" comment="Agregado el 80% de las vistas de el panel de administrador">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/gallina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/proyectoAD.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/alimentacion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/gestionProductos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/calendario.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/listadoGallinas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/modificar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/mortalidad.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/pesaje.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/registroAnimales.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/registroProductos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/tratamientos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/Admin/forms.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/img/bg.jpg" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/img/favicon.ico" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/css/custom.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/includes/footerL.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/footerL.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/includes/header.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/includes/headerL.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/headerL.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/login.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/register.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/includes/header.php" afterPath="$PROJECT_DIR$/FrontEnd/includes/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -177,12 +45,127 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="proyectoAD" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1564">
+              <caret line="92" column="65" lean-forward="false" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.default.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44387">
+              <caret line="2611" column="21" lean-forward="false" selection-start-line="2611" selection-start-column="21" selection-end-line="2611" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gestionProductos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/gestionProductos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registroProductos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/registroProductos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="88" column="53" lean-forward="false" selection-start-line="88" selection-start-column="53" selection-end-line="88" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wrapper</find>
+      <find>table</find>
+      <find>str</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/bg" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/registroAnimales.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/modificar.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/css/custom.css" />
+        <option value="$PROJECT_DIR$/FrontEnd/includes/header.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/calendario.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/js/calendario.js" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/css/calendar.css" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/forms.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/pesaje.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/listadoGallinas.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/gestionProductos.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/includes/header.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/registroProductos.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/includes/headerL.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/login.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/register.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/includes/footerL.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -190,12 +173,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
+    <option name="width" value="1375" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -212,36 +195,58 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proyectoAD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proyectoAD" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="proyectoAD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoAD" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="proyectoAD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoAD" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="FrontEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jsx.switch.disabled" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Brenda\PhpstormProjects\proyectoAD\FrontEnd\Admin\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\proyectoAD\FrontEnd" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/proyectoAD/FrontEnd/Admin/index.php" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -256,37 +261,49 @@
       <workItem from="1508764738278" duration="147000" />
       <workItem from="1509731564262" duration="83000" />
       <workItem from="1510753534845" duration="299000" />
+      <workItem from="1510754501811" duration="33000" />
+      <workItem from="1510754604764" duration="2510000" />
+      <workItem from="1510951260460" duration="2716000" />
+      <workItem from="1511233635582" duration="3122000" />
+      <workItem from="1511357186168" duration="149000" />
+      <workItem from="1511383956147" duration="8706000" />
+      <workItem from="1511436135347" duration="3764000" />
+      <workItem from="1511443711118" duration="4065000" />
+      <workItem from="1511450549559" duration="3638000" />
+      <workItem from="1511466237106" duration="198000" />
+      <workItem from="1511471592190" duration="342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="529000" />
+    <option name="totallyTimeSpent" value="29772000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <frame x="-6" y="1" width="1375" height="733" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25018397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8494624" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -309,8 +326,387 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregado el 80% de las vistas de el panel de administrador" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregado el 80% de las vistas de el panel de administrador" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/js/calendario.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/forms.php" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44285">
+          <caret line="2605" column="12" lean-forward="false" selection-start-line="2605" selection-start-column="12" selection-end-line="2605" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="49" lean-forward="false" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/listadoGallinas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="80" lean-forward="false" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="126" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/modificar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="124" lean-forward="false" selection-start-line="72" selection-start-column="124" selection-end-line="72" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="49" lean-forward="false" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/listadoGallinas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="80" lean-forward="true" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="126" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/modificar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="124" lean-forward="false" selection-start-line="72" selection-start-column="124" selection-end-line="72" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="35" lean-forward="false" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31008">
+          <caret line="1824" column="16" lean-forward="false" selection-start-line="1824" selection-start-column="16" selection-end-line="1824" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/registroAnimales.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="65" lean-forward="false" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="35" lean-forward="true" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31008">
+          <caret line="1824" column="16" lean-forward="false" selection-start-line="1824" selection-start-column="16" selection-end-line="1824" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/registroAnimales.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="62" column="25" lean-forward="false" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/modificar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="124" lean-forward="false" selection-start-line="72" selection-start-column="124" selection-end-line="72" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/calendar.php" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/calendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/js/calendario.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="92" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="280" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/tables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="26" lean-forward="false" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/forms.php" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/listadoGallinas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="65" column="20" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="65" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="2136" column="2" lean-forward="false" selection-start-line="2136" selection-start-column="2" selection-end-line="2136" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/pesaje.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/alimentacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/charts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/registroProductos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="53" lean-forward="false" selection-start-line="88" selection-start-column="53" selection-end-line="88" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44387">
+          <caret line="2611" column="21" lean-forward="false" selection-start-line="2611" selection-start-column="21" selection-end-line="2611" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/footerL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/headerL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="51" column="35" lean-forward="false" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="39" column="35" lean-forward="false" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="65" lean-forward="false" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/gestionProductos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

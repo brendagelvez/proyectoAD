@@ -3,7 +3,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-6">
-                <p>Your company &copy; 2017-2019</p>
+                <p>Analisis y diseño 2017</p>
             </div>
             <div class="col-sm-6 text-right">
                 <p>Design by <a href="https://bootstrapious.com/admin-templates" class="external">Bootstrapious</a></p>
@@ -17,13 +17,15 @@
 </div>
 <!-- Javascript files-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="js/tether.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.cookie.js"> </script>
+<script src="./js/tether.min.js"></script>
+<script src="./js/bootstrap.min.js"></script>
+<script src="./js/jquery.cookie.js"> </script>
 <script src="js/jquery.validate.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
 <script src="js/charts-home.js"></script>
 <script src="js/front.js"></script>
+
+
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.-->
 <!---->
 <script>

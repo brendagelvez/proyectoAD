@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="css/style.default.css" id="theme-stylesheet">
     <!-- Custom stylesheet - for your changes-->
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/calendar.css">
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/favicon.ico">
     <!-- Font Awesome CDN-->
@@ -25,6 +26,12 @@
     <!-- Tweaks for older IEs--><!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+    <script src="https://code.angularjs.org/1.2.3/angular.min.js"></script>
+    <script src="js/calendario.js"></script>
+
+
 </head>
 <body>
 <div class="page home-page">
@@ -52,54 +59,10 @@
                         <!-- Search-->
                         <li class="nav-item d-flex align-items-center"><a id="search" href="#"><i class="icon-search"></i></a></li>
                         <!-- Notifications-->
-                        <li class="nav-item dropdown"> <a id="notifications" rel="nofollow" data-target="#" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link"><i class="fa fa-bell-o"></i><span class="badge bg-red">12</span></a>
-                            <ul aria-labelledby="notifications" class="dropdown-menu">
-                                <li><a rel="nofollow" href="#" class="dropdown-item">
-                                        <div class="notification">
-                                            <div class="notification-content"><i class="fa fa-envelope bg-green"></i>You have 6 new messages </div>
-                                            <div class="notification-time"><small>4 minutes ago</small></div>
-                                        </div></a></li>
-                                <li><a rel="nofollow" href="#" class="dropdown-item">
-                                        <div class="notification">
-                                            <div class="notification-content"><i class="fa fa-twitter bg-blue"></i>You have 2 followers</div>
-                                            <div class="notification-time"><small>4 minutes ago</small></div>
-                                        </div></a></li>
-                                <li><a rel="nofollow" href="#" class="dropdown-item">
-                                        <div class="notification">
-                                            <div class="notification-content"><i class="fa fa-upload bg-orange"></i>Server Rebooted</div>
-                                            <div class="notification-time"><small>4 minutes ago</small></div>
-                                        </div></a></li>
-                                <li><a rel="nofollow" href="#" class="dropdown-item">
-                                        <div class="notification">
-                                            <div class="notification-content"><i class="fa fa-twitter bg-blue"></i>You have 2 followers</div>
-                                            <div class="notification-time"><small>10 minutes ago</small></div>
-                                        </div></a></li>
-                                <li><a rel="nofollow" href="#" class="dropdown-item all-notifications text-center"> <strong>view all notifications                                            </strong></a></li>
-                            </ul>
-                        </li>
-                        <!-- Messages                        -->
-                        <li class="nav-item dropdown"> <a id="messages" rel="nofollow" data-target="#" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link"><i class="fa fa-envelope-o"></i><span class="badge bg-orange">10</span></a>
-                            <ul aria-labelledby="notifications" class="dropdown-menu">
-                                <li><a rel="nofollow" href="#" class="dropdown-item d-flex">
-                                        <div class="msg-profile"> <img src="img/avatar-1.jpg" alt="..." class="img-fluid rounded-circle"></div>
-                                        <div class="msg-body">
-                                            <h3 class="h5">Jason Doe</h3><span>Sent You Message</span>
-                                        </div></a></li>
-                                <li><a rel="nofollow" href="#" class="dropdown-item d-flex">
-                                        <div class="msg-profile"> <img src="img/avatar-2.jpg" alt="..." class="img-fluid rounded-circle"></div>
-                                        <div class="msg-body">
-                                            <h3 class="h5">Frank Williams</h3><span>Sent You Message</span>
-                                        </div></a></li>
-                                <li><a rel="nofollow" href="#" class="dropdown-item d-flex">
-                                        <div class="msg-profile"> <img src="img/avatar-3.jpg" alt="..." class="img-fluid rounded-circle"></div>
-                                        <div class="msg-body">
-                                            <h3 class="h5">Ashley Wood</h3><span>Sent You Message</span>
-                                        </div></a></li>
-                                <li><a rel="nofollow" href="#" class="dropdown-item all-notifications text-center"> <strong>Read all messages    </strong></a></li>
-                            </ul>
-                        </li>
+                                                <!-- Messages                        -->
+
                         <!-- Logout    -->
-                        <li class="nav-item"><a href="login.php" class="nav-link logout">Logout<i class="fa fa-sign-out"></i></a></li>
+                        <li class="nav-item"><a href="login.php" class="nav-link logout">Cerrar sesión<i class="fa fa-sign-out"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -116,19 +79,36 @@
                     <p>Web Designer</p>
                 </div>
             </div>
-            <!-- Sidebar Navidation Menus--><span class="heading">Main</span>
+            <!-- Sidebar Navidation Menus--><span class="heading">Administrador</span>
             <ul class="list-unstyled">
                 <li class="active"> <a href=""><i class="icon-home"></i>Inicio</a></li>
 
                 <li> <a href="tables.php"> <i class="fa fa-user-o"></i>Gestion de usuarios</a></li>
-                <li> <a href="charts.php"> <i class="fa fa-bar-chart"></i>Charts </a></li>
-                <li> <a href="forms.php"> <i class="icon-padnote"></i>Forms </a></li>
-                <li> <a href="login.php"> <i class="icon-interface-windows"></i>Login Page</a></li>
-            </ul><span class="heading">Extras</span>
+                <li><a href="#dashvariants" aria-expanded="false" data-toggle="collapse"> <i class="fa fa-list-alt"></i>Gestion de productos </a>
+                    <ul id="dashvariants" class="collapse list-unstyled">
+                        <li><a href="registroProductos.php">Registro de productos</a></li>
+                        <li><a href="gestionProductos.php">Listado de productos</a></li>
+                    </ul>
+                </li>
+            </ul><span class="heading">Gestion de animales</span>
             <ul class="list-unstyled">
-                <li> <a href="#"> <i class="icon-flask"></i>Demo </a></li>
-                <li> <a href="#"> <i class="icon-screen"></i>Demo </a></li>
-                <li> <a href="#"> <i class="icon-mail"></i>Demo </a></li>
-                <li> <a href="#"> <i class="icon-picture"></i>Demo </a></li>
+                <li> <a href="registroAnimales.php"> <i class="fa fa-user-plus"></i>Registro</a></li>
+                <li> <a href="listadoGallinas.php"> <i class="fa fa-pencil-square-o"></i>Modificación</a></li>
+                <li><a href="#dashvariants" aria-expanded="false" data-toggle="collapse"> <i class="icon-interface-windows"></i>Controles </a>
+                    <ul id="dashvariants" class="collapse list-unstyled">
+                        <li><a href="vacunacion.php">Vacunación</a></li>
+                        <li><a href="pesaje.php">Pesaje</a></li>
+                        <li><a href="fases.php">Fases de producción</a></li>
+                        <li><a href="alimentacion.php">Agua y alimentación</a></li>
+                        <li><a href="tratamientos.php">Tratamientos</a></li>
+                        <li><a href="mortalidad.php">Mortalidad</a></li>
+                    </ul>
+                </li>
+                <li> <a href="#"> <i class="fa fa-clipboard"></i>Reportes</a></li>
             </ul>
+            </ul><span class="heading">Ventas</span>
+            <ul class="list-unstyled">
+                <li> <a href="#"> <i class="fa fa-line-chart"></i>Reporte de ventas</a></li>
+                <li> <a href="#"> <i class="fa fa-pie-chart"></i>Graficos</a></li>
+
         </nav>

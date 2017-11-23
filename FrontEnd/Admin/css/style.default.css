@@ -1624,7 +1624,7 @@ input.input-material {
   border: none;
   border-bottom: 1px solid #eee;
   padding: 10px 0;
-  background: #262626;
+  background: #fff;
 }
 
 input.input-material:focus {
@@ -1739,6 +1739,11 @@ section.forms .line {
 *     LOGIN PAGE
 * ==========================================================
 */
+/*
+* ==========================================================
+*     LOGIN PAGE
+* ==========================================================
+*/
 .login-page {
   position: relative;
 }
@@ -1776,7 +1781,6 @@ section.forms .line {
   min-height: 70vh;
   padding: 40px;
   height: 100%;
-  background: #262626;
 }
 
 .login-page .form-holder div[class*='col-'] {
@@ -1784,8 +1788,8 @@ section.forms .line {
 }
 
 .login-page .form-holder .info {
-  background: #f3bf3c;
-  color: #000;
+  background: #f2b724;
+  color: #fff;
 }
 
 .login-page .form-holder .info h1 {
@@ -1809,13 +1813,11 @@ section.forms .line {
 .login-page .form-holder .form form {
   width: 100%;
   max-width: 400px;
-  background: #262626;
 }
 
 .login-page .form-holder .form #login, .login-page .form-holder .form #register {
   margin-bottom: 20px;
   cursor: pointer;
-
 }
 
 .login-page .form-holder .form a.forgot-pass, .login-page .form-holder .form a.signup {
@@ -1831,7 +1833,6 @@ section.forms .line {
   cursor: pointer;
   color: #aaa;
   font-size: 0.9em;
-  background: #262626;
 }
 
 .login-page .copyrights {
@@ -1840,7 +1841,7 @@ section.forms .line {
   position: absolute;
   bottom: 0;
   left: 0;
-  color: #000;
+  color: #fff;
 }
 
 /*
@@ -1850,6 +1851,30 @@ STYLE SWITCHER FOR DEMO
 =====================
 
 */
+#style-switch-button {
+  position: fixed;
+  top: 120px;
+  right: 0px;
+  border-radius: 0;
+  z-index: 2;
+}
+
+#style-switch {
+  width: 300px;
+  padding: 20px;
+  position: fixed;
+  top: 160px;
+  right: 0;
+  background: #fff;
+  border: solid 1px #eceeef;
+  z-index: 2000;
+}
+
+#style-switch h4 {
+  color: #464a4c;
+}
+
+
 #style-switch-button {
   position: fixed;
   top: 120px;
@@ -2566,3 +2591,24 @@ a.text-primary:focus, a.text-primary:hover {
   border-bottom-right-radius: 0.2rem;
   border-top-right-radius: 0.2rem;
 }
+/*Nuevos estilos*/
+
+.paddingBotones{
+  margin-left: 15px;
+
+}
+
+/*Paddings*/
+.paddingModal{
+  margin-left: 250px;
+}
+.paddingUp{
+  margin-top: 100px;
+}
+
+/*sizing*/
+.myStyle td{
+  width: 120px;
+  text-align: justify;
+}
+

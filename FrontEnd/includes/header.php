@@ -20,6 +20,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <script>$(document).ready(function(){$(".megamenu").megamenu();});</script>
     <!--start slider -->
     <link rel="stylesheet" href="./css/fwslider.css" media="all">
+    <link rel="shortcut icon" href="./images/favicon.ico">
     <script src="./js/jquery-ui.min.js"></script>
     <script src="./js/css3-mediaqueries.js"></script>
     <script src="./js/fwslider.js"></script>
