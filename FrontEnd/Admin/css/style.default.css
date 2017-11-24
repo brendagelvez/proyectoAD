@@ -95,7 +95,7 @@ table {
 }
 
 .card-close .dropdown-menu a:hover {
-  background: #796AEE;
+  background: #e8a13e;
   color: #fff !important;
 }
 
@@ -2612,3 +2612,59 @@ a.text-primary:focus, a.text-primary:hover {
   text-align: justify;
 }
 
+.chicken img{
+  max-width: 35px;
+  margin-right: 10px;
+}
+
+.pagination {
+  display: block;
+  width: 75%;
+  margin: 1em auto;
+  text-align: center;
+
+}
+.pagination:after {
+  content: '';
+  clear: both;
+}
+
+.pagination-button {
+  display: inline-block;
+  padding: 5px 10px;
+  border: 1px solid #e8933e;
+  background-color: #edb76c;
+  color: #ed7804;
+  cursor: pointer;
+  transition: background 0.1s, color 0.1s;
+}
+.pagination-button:hover {
+  background-color: #e8af3e;
+  color: #fff;
+}
+.pagination-button.active {
+  background-color: #e8af3e;
+  border-color: #e8a13e;
+  color: #fff0f0;
+}
+.pagination-button:first-of-type {
+  border-radius: 18px 0 0 18px;
+}
+.pagination-button:last-of-type {
+  border-radius: 0 18px 18px 0;
+}
+
+
+.article-loop {
+  display: block;
+  width: 75%;
+  padding: 1em 2em;
+  margin: 1em auto;
+
+
+}
+
+
+.paddingTitle {
+  padding-bottom: 50px;
+}

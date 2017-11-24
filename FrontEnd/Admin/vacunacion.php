@@ -79,6 +79,10 @@
                                                         </select>
                                                     </div>
                                                     <div class="form-group">
+                                                        <label>Fecha</label>
+                                                        <input type="date"class="form-control">
+                                                    </div>
+                                                    <div class="form-group">
                                                         <label>Hora</label>
                                                         <input type="time"class="form-control">
                                                     </div>
@@ -103,7 +107,7 @@
         <section class="tables">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class=" article-loop col-lg-6">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">
@@ -146,7 +150,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class=" article-loop col-lg-6">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">
@@ -189,7 +193,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class=" article-loop col-lg-6">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">
@@ -232,7 +236,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="article-loop col-lg-6">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">

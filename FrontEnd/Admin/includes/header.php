@@ -29,7 +29,7 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 
     <script src="https://code.angularjs.org/1.2.3/angular.min.js"></script>
-    <script src="js/calendario.js"></script>
+
 
 
 </head>
@@ -81,7 +81,7 @@
             </div>
             <!-- Sidebar Navidation Menus--><span class="heading">Administrador</span>
             <ul class="list-unstyled">
-                <li class="active"> <a href=""><i class="icon-home"></i>Inicio</a></li>
+                <li class="active"> <a href="index.php"><i class="icon-home"></i>Inicio</a></li>
 
                 <li> <a href="tables.php"> <i class="fa fa-user-o"></i>Gestion de usuarios</a></li>
                 <li><a href="#dashvariants" aria-expanded="false" data-toggle="collapse"> <i class="fa fa-list-alt"></i>Gestion de productos </a>
@@ -94,12 +94,12 @@
             <ul class="list-unstyled">
                 <li> <a href="registroAnimales.php"> <i class="fa fa-user-plus"></i>Registro</a></li>
                 <li> <a href="listadoGallinas.php"> <i class="fa fa-pencil-square-o"></i>Modificación</a></li>
-                <li><a href="#dashvariants" aria-expanded="false" data-toggle="collapse"> <i class="icon-interface-windows"></i>Controles </a>
-                    <ul id="dashvariants" class="collapse list-unstyled">
+                <li><a href="#dashvariant" aria-expanded="false" data-toggle="collapse"> <i class="icon-interface-windows"></i>Controles </a>
+                    <ul id="dashvariant" class="collapse list-unstyled">
                         <li><a href="vacunacion.php">Vacunación</a></li>
                         <li><a href="pesaje.php">Pesaje</a></li>
                         <li><a href="fases.php">Fases de producción</a></li>
-                        <li><a href="alimentacion.php">Agua y alimentación</a></li>
+                        <li><a href="alimentacion.php">Alimentación</a></li>
                         <li><a href="tratamientos.php">Tratamientos</a></li>
                         <li><a href="mortalidad.php">Mortalidad</a></li>
                     </ul>

@@ -3,7 +3,7 @@
         <!-- Page Header-->
         <header class="page-header">
             <div class="container-fluid">
-                <h2 class="no-margin-bottom">Vacunacion</h2>
+                <h2 class="no-margin-bottom">Tratatamientos</h2>
             </div>
         </header>
 
@@ -21,7 +21,7 @@
                                 </div>
                             </div>
                             <div class="card-header d-flex align-items-center">
-                                <h3 class="h4">Registro de fecha </h3>
+                                <h3 class="h4">Agendar tratamientos </h3>
                             </div>
                             <div class="card-body text-center">
                                 <button type="button" data-toggle="modal" data-target="#myModal" class="btn btn-primary">Agregar</button>
@@ -30,7 +30,7 @@
                                     <div role="document" class="modal-dialog">
                                         <div class="modal-content">
                                             <div class="modal-header">
-                                                <h4 id="exampleModalLabel" class="modal-title">Registre nueva fecha de vacunación</h4>
+                                                <h4 id="exampleModalLabel" class="modal-title">Registre un nuevo tratamiento a realizar</h4>
                                                 <button type="button" data-dismiss="modal" aria-label="Close" class="close"><span aria-hidden="true">×</span></button>
                                             </div>
                                             <div class="modal-body">
@@ -46,37 +46,29 @@
                                                         </select>
                                                     </div>
                                                     <div class="form-group">
-                                                        <label>Vacuna</label>
+                                                        <label>Tratamiento</label>
                                                         <select name="account" class="form-control">
-                                                            <option>Marek</option>
-                                                            <option>New Castle</option>
-                                                            <option>Bronquitis Aviar</option>
-                                                            <option>Viruela Aviar</option>
-                                                            <option>Coriza infecciosa</option>
-                                                            <option>Desquipe</option>
+                                                            <option>Revision</option>
+                                                            <option>Inyección</option>
+                                                            <option>Cuarentena</option>
+                                                            <option>Intevención medica</option>
+                                                            <option>Cambio de dieta</option>
 
                                                         </select>
                                                     </div>
                                                     <div class="form-group">
-                                                        <label>Dosis</label>
+                                                        <label>Nivel de urgencia</label>
                                                         <select name="account" class="form-control">
-                                                            <option>Unica</option>
-                                                            <option>Primera</option>
-                                                            <option>Segunda</option>
-                                                            <option>Tercera</option>
-                                                            <option>Cuarta</option>
-
+                                                            <option>Leve</option>
+                                                            <option>Medio</option>
+                                                            <option>Alto</option>
+                                                            <option>Urgente-Prioridad</option>
 
                                                         </select>
                                                     </div>
                                                     <div class="form-group">
-                                                        <label>Via</label>
-                                                        <select name="account" class="form-control">
-                                                            <option>Punción Alar</option>
-                                                            <option>Gota Ocular</option>
-                                                            <option>Inyección pechuga</option>
-                                                            <option>Agua bebida</option>
-                                                        </select>
+                                                        <label>Fecha</label>
+                                                        <input type="date"class="form-control">
                                                     </div>
                                                     <div class="form-group">
                                                         <label>Hora</label>
@@ -103,7 +95,7 @@
         <section class="tables">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class=" article-loop col-lg-6">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">
@@ -112,6 +104,9 @@
                                 </div>
                             </div>
                             <div class="card-header d-flex align-items-center">
+                                <div class="chicken client-avatar"><img src="img/calendar.png" alt="..." class="img-fluid rounded-circle">
+                                    <div class="status bg-green"></div>
+                                </div>
                                 <h3 class="h4">27 de noviembre de 2017</h3>
                             </div>
                             <div class="card-body">
@@ -119,26 +114,23 @@
                                     <thead>
                                     <tr>
                                         <th>Id Gallina</th>
-                                        <th>Vacuna</th>
-                                        <th>Via</th>
-                                        <th>Dosis</th>
+                                        <th>Tratamiento</th>
+                                        <th>Nivel urgencia</th>
                                         <th>Hora</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr>
                                         <th>3</th>
-                                        <td>Marek</td>
-                                        <td>Puncion Alar</td>
-                                        <td>Unica</td>
+                                        <td>Revision</td>
+                                        <td>Leve</td>
                                         <td>12:30 pm</td>
                                     </tr>
                                     <tr>
                                         <th>5</th>
-                                        <td>New Castle</td>
-                                        <td>Gota Ocular</td>
-                                        <td>Segunda dosis</td>
-                                        <td>2:00 pm</td>
+                                        <td>Cambio dieta</td>
+                                        <td>Media</td>
+                                        <td>03:30 pm</td>
                                     </tr>
 
                                     </tbody>
@@ -146,7 +138,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class=" article-loop col-lg-6">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">
@@ -155,6 +147,9 @@
                                 </div>
                             </div>
                             <div class="card-header d-flex align-items-center">
+                                <div class="chicken client-avatar"><img src="img/calendar.png" alt="..." class="img-fluid rounded-circle">
+                                    <div class="status bg-green"></div>
+                                </div>
                                 <h3 class="h4">28 de noviembre de 2017</h3>
                             </div>
                             <div class="card-body">
@@ -162,26 +157,23 @@
                                     <thead>
                                     <tr>
                                         <th>Id Gallina</th>
-                                        <th>Vacuna</th>
-                                        <th>Via</th>
-                                        <th>Dosis</th>
+                                        <th>Tratamiento</th>
+                                        <th>Nivel Urgencia</th>
                                         <th>Hora</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th>3</th>
-                                        <td>Marek</td>
-                                        <td>Puncion Alar</td>
-                                        <td>Unica</td>
+                                        <th>7</th>
+                                        <td>Cuarentena</td>
+                                        <td>Alta</td>
                                         <td>12:30 pm</td>
                                     </tr>
                                     <tr>
                                         <th>5</th>
-                                        <td>New Castle</td>
-                                        <td>Gota Ocular</td>
-                                        <td>Segunda dosis</td>
-                                        <td>2:00 pm</td>
+                                        <td>Inyección</td>
+                                        <td>Media</td>
+                                        <td>02:30 pm</td>
                                     </tr>
 
                                     </tbody>
@@ -189,7 +181,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class=" article-loop col-lg-6">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">
@@ -198,6 +190,9 @@
                                 </div>
                             </div>
                             <div class="card-header d-flex align-items-center">
+                                <div class="chicken client-avatar"><img src="img/calendar.png" alt="..." class="img-fluid rounded-circle">
+                                    <div class="status bg-green"></div>
+                                </div>
                                 <h3 class="h4">29 de noviembre de 2017</h3>
                             </div>
                             <div class="card-body">
@@ -205,26 +200,23 @@
                                     <thead>
                                     <tr>
                                         <th>Id Gallina</th>
-                                        <th>Vacuna</th>
-                                        <th>Via</th>
-                                        <th>Dosis</th>
+                                        <th>Tratamiento</th>
+                                        <th>Nivel Urgencia</th>
                                         <th>Hora</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th>3</th>
-                                        <td>Marek</td>
-                                        <td>Puncion Alar</td>
-                                        <td>Unica</td>
+                                        <th>7</th>
+                                        <td>Cuarentena</td>
+                                        <td>Alta</td>
                                         <td>12:30 pm</td>
                                     </tr>
                                     <tr>
                                         <th>5</th>
-                                        <td>New Castle</td>
-                                        <td>Gota Ocular</td>
-                                        <td>Segunda dosis</td>
-                                        <td>2:00 pm</td>
+                                        <td>Inyección</td>
+                                        <td>Media</td>
+                                        <td>02:30 pm</td>
                                     </tr>
 
                                     </tbody>
@@ -232,7 +224,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="article-loop col-lg-6">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">
@@ -241,6 +233,9 @@
                                 </div>
                             </div>
                             <div class="card-header d-flex align-items-center">
+                                <div class="chicken client-avatar"><img src="img/calendar.png" alt="..." class="img-fluid rounded-circle">
+                                    <div class="status bg-green"></div>
+                                </div>
                                 <h3 class="h4">30 de noviembre de 2017</h3>
                             </div>
                             <div class="card-body">
@@ -248,26 +243,23 @@
                                     <thead>
                                     <tr>
                                         <th>Id Gallina</th>
-                                        <th>Vacuna</th>
-                                        <th>Via</th>
-                                        <th>Dosis</th>
+                                        <th>Tratamiento</th>
+                                        <th>Nivel Urgencia</th>
                                         <th>Hora</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th>3</th>
-                                        <td>Marek</td>
-                                        <td>Puncion Alar</td>
-                                        <td>Unica</td>
+                                        <th>7</th>
+                                        <td>Cuarentena</td>
+                                        <td>Alta</td>
                                         <td>12:30 pm</td>
                                     </tr>
                                     <tr>
                                         <th>5</th>
-                                        <td>New Castle</td>
-                                        <td>Gota Ocular</td>
-                                        <td>Segunda dosis</td>
-                                        <td>2:00 pm</td>
+                                        <td>Inyección</td>
+                                        <td>Media</td>
+                                        <td>02:30 pm</td>
                                     </tr>
 
                                     </tbody>

@@ -3,11 +3,9 @@
         <!-- Page Header-->
         <header class="page-header">
             <div class="container-fluid">
-                <h2 class="no-margin-bottom">Vacunacion</h2>
+                <h2 class="no-margin-bottom">Mortalidad</h2>
             </div>
         </header>
-
-        <!-- Forms Section-->
         <section class="forms">
             <div class="container-fluid">
                 <div class="row" >
@@ -21,7 +19,7 @@
                                 </div>
                             </div>
                             <div class="card-header d-flex align-items-center">
-                                <h3 class="h4">Registro de fecha </h3>
+                                <h3 class="h4">Registro de baja de animal </h3>
                             </div>
                             <div class="card-body text-center">
                                 <button type="button" data-toggle="modal" data-target="#myModal" class="btn btn-primary">Agregar</button>
@@ -30,7 +28,7 @@
                                     <div role="document" class="modal-dialog">
                                         <div class="modal-content">
                                             <div class="modal-header">
-                                                <h4 id="exampleModalLabel" class="modal-title">Registre nueva fecha de vacunación</h4>
+                                                <h4 id="exampleModalLabel" class="modal-title">Registre la baja de un animal</h4>
                                                 <button type="button" data-dismiss="modal" aria-label="Close" class="close"><span aria-hidden="true">×</span></button>
                                             </div>
                                             <div class="modal-body">
@@ -45,49 +43,31 @@
                                                             <option>6</option>
                                                         </select>
                                                     </div>
-                                                    <div class="form-group">
-                                                        <label>Vacuna</label>
-                                                        <select name="account" class="form-control">
-                                                            <option>Marek</option>
-                                                            <option>New Castle</option>
-                                                            <option>Bronquitis Aviar</option>
-                                                            <option>Viruela Aviar</option>
-                                                            <option>Coriza infecciosa</option>
-                                                            <option>Desquipe</option>
 
+
+                                                    <div class="form-group">
+                                                        <label>Causa</label>
+                                                        <select name="account" class="form-control">
+                                                            <option>Enfermedad</option>
+                                                            <option>Razon desconocida</option>
+                                                            <option>Dada de baja</option>
+                                                            <option>Envenenamiento</option>
+                                                            <option>Otra</option>
                                                         </select>
                                                     </div>
                                                     <div class="form-group">
-                                                        <label>Dosis</label>
-                                                        <select name="account" class="form-control">
-                                                            <option>Unica</option>
-                                                            <option>Primera</option>
-                                                            <option>Segunda</option>
-                                                            <option>Tercera</option>
-                                                            <option>Cuarta</option>
-
-
-                                                        </select>
+                                                        <label>Descripción de la causa</label>
+                                                        <input type="text" placeholder="Describa con más detalles la causa de muerte" class="form-control">
                                                     </div>
                                                     <div class="form-group">
-                                                        <label>Via</label>
-                                                        <select name="account" class="form-control">
-                                                            <option>Punción Alar</option>
-                                                            <option>Gota Ocular</option>
-                                                            <option>Inyección pechuga</option>
-                                                            <option>Agua bebida</option>
-                                                        </select>
+                                                        <label>Fecha</label>
+                                                        <input type="date"class="form-control">
                                                     </div>
-                                                    <div class="form-group">
-                                                        <label>Hora</label>
-                                                        <input type="time"class="form-control">
-                                                    </div>
-
                                                 </form>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" data-dismiss="modal" class="btn btn-secondary">Close</button>
-                                                <button type="button" class="btn btn-primary">Agregar</button>
+                                                <button type="button" class="btn btn-primary">Registrar</button>
                                             </div>
                                         </div>
                                     </div>
@@ -103,7 +83,8 @@
         <section class="tables">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-6">
+
+                    <div class="col-lg-12">
                         <div class="card">
                             <div class="card-close">
                                 <div class="dropdown">
@@ -112,169 +93,49 @@
                                 </div>
                             </div>
                             <div class="card-header d-flex align-items-center">
-                                <h3 class="h4">27 de noviembre de 2017</h3>
+                                <h3 class="h4">Listado de bajas en el mes</h3>
                             </div>
                             <div class="card-body">
                                 <table class="table table-striped table-hover">
                                     <thead>
                                     <tr>
-                                        <th>Id Gallina</th>
-                                        <th>Vacuna</th>
-                                        <th>Via</th>
-                                        <th>Dosis</th>
-                                        <th>Hora</th>
+                                        <th>Id gallina</th>
+                                        <th>Causa</th>
+                                        <th>Descripcion</th>
+                                        <th>Fecha</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr>
-                                        <th>3</th>
-                                        <td>Marek</td>
-                                        <td>Puncion Alar</td>
-                                        <td>Unica</td>
-                                        <td>12:30 pm</td>
+                                        <th>23476</th>
+                                        <td>Enfermedad</td>
+                                        <td>Debido a mal tratamiento se presenta la baja</td>
+                                        <td>12/11/2017</td>
+
+
                                     </tr>
                                     <tr>
-                                        <th>5</th>
-                                        <td>New Castle</td>
-                                        <td>Gota Ocular</td>
-                                        <td>Segunda dosis</td>
-                                        <td>2:00 pm</td>
-                                    </tr>
+                                        <th>23476</th>
+                                        <td>Enfermedad</td>
+                                        <td>Debido a mal tratamiento se presenta la baja</td>
+                                        <td>12/11/2017</td>
 
+
+                                    </tr>
+                                    <tr>
+                                        <th>23476</th>
+                                        <td>Enfermedad</td>
+                                        <td>Debido a mal tratamiento se presenta la baja</td>
+                                        <td>12/11/2017</td>
+
+
+                                    </tr>
                                     </tbody>
                                 </table>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="card">
-                            <div class="card-close">
-                                <div class="dropdown">
-                                    <button type="button" id="closeCard" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-ellipsis-v"></i></button>
-                                    <div aria-labelledby="closeCard" class="dropdown-menu has-shadow"><a href="#" class="dropdown-item remove"> <i class="fa fa-times"></i>Close</a><a href="#" class="dropdown-item edit"> <i class="fa fa-gear"></i>Edit</a></div>
-                                </div>
-                            </div>
-                            <div class="card-header d-flex align-items-center">
-                                <h3 class="h4">28 de noviembre de 2017</h3>
-                            </div>
-                            <div class="card-body">
-                                <table class="table table-striped table-hover">
-                                    <thead>
-                                    <tr>
-                                        <th>Id Gallina</th>
-                                        <th>Vacuna</th>
-                                        <th>Via</th>
-                                        <th>Dosis</th>
-                                        <th>Hora</th>
-                                    </tr>
-                                    </thead>
-                                    <tbody>
-                                    <tr>
-                                        <th>3</th>
-                                        <td>Marek</td>
-                                        <td>Puncion Alar</td>
-                                        <td>Unica</td>
-                                        <td>12:30 pm</td>
-                                    </tr>
-                                    <tr>
-                                        <th>5</th>
-                                        <td>New Castle</td>
-                                        <td>Gota Ocular</td>
-                                        <td>Segunda dosis</td>
-                                        <td>2:00 pm</td>
-                                    </tr>
 
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="card">
-                            <div class="card-close">
-                                <div class="dropdown">
-                                    <button type="button" id="closeCard" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-ellipsis-v"></i></button>
-                                    <div aria-labelledby="closeCard" class="dropdown-menu has-shadow"><a href="#" class="dropdown-item remove"> <i class="fa fa-times"></i>Close</a><a href="#" class="dropdown-item edit"> <i class="fa fa-gear"></i>Edit</a></div>
-                                </div>
-                            </div>
-                            <div class="card-header d-flex align-items-center">
-                                <h3 class="h4">29 de noviembre de 2017</h3>
-                            </div>
-                            <div class="card-body">
-                                <table class="table table-striped table-hover">
-                                    <thead>
-                                    <tr>
-                                        <th>Id Gallina</th>
-                                        <th>Vacuna</th>
-                                        <th>Via</th>
-                                        <th>Dosis</th>
-                                        <th>Hora</th>
-                                    </tr>
-                                    </thead>
-                                    <tbody>
-                                    <tr>
-                                        <th>3</th>
-                                        <td>Marek</td>
-                                        <td>Puncion Alar</td>
-                                        <td>Unica</td>
-                                        <td>12:30 pm</td>
-                                    </tr>
-                                    <tr>
-                                        <th>5</th>
-                                        <td>New Castle</td>
-                                        <td>Gota Ocular</td>
-                                        <td>Segunda dosis</td>
-                                        <td>2:00 pm</td>
-                                    </tr>
-
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="card">
-                            <div class="card-close">
-                                <div class="dropdown">
-                                    <button type="button" id="closeCard" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-ellipsis-v"></i></button>
-                                    <div aria-labelledby="closeCard" class="dropdown-menu has-shadow"><a href="#" class="dropdown-item remove"> <i class="fa fa-times"></i>Close</a><a href="#" class="dropdown-item edit"> <i class="fa fa-gear"></i>Edit</a></div>
-                                </div>
-                            </div>
-                            <div class="card-header d-flex align-items-center">
-                                <h3 class="h4">30 de noviembre de 2017</h3>
-                            </div>
-                            <div class="card-body">
-                                <table class="table table-striped table-hover">
-                                    <thead>
-                                    <tr>
-                                        <th>Id Gallina</th>
-                                        <th>Vacuna</th>
-                                        <th>Via</th>
-                                        <th>Dosis</th>
-                                        <th>Hora</th>
-                                    </tr>
-                                    </thead>
-                                    <tbody>
-                                    <tr>
-                                        <th>3</th>
-                                        <td>Marek</td>
-                                        <td>Puncion Alar</td>
-                                        <td>Unica</td>
-                                        <td>12:30 pm</td>
-                                    </tr>
-                                    <tr>
-                                        <th>5</th>
-                                        <td>New Castle</td>
-                                        <td>Gota Ocular</td>
-                                        <td>Segunda dosis</td>
-                                        <td>2:00 pm</td>
-                                    </tr>
-
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
