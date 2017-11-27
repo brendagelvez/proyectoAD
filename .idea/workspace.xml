@@ -2,20 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10dac919-4d27-44e2-a1ee-0a4be129329b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/chicken.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/Admin/img/pollito.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/call.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/camion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/carito.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/carrito.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/carrito1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/carrito2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/carton.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrontEnd/images/lupa-naranja.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/a-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/a-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/a-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/cart3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/left-banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s-img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FrontEnd/images/s5.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FrontEnd/other.php" afterPath="$PROJECT_DIR$/FrontEnd/productos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/images/banner.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/images/banner1.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/banner1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/images/s6.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/images/s7.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/images/s8.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/images/s9.jpg" afterPath="$PROJECT_DIR$/FrontEnd/images/s9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/alimentacion.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/alimentacion.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css" afterPath="$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/includes/header.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/includes/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/js/calendario.js" afterPath="$PROJECT_DIR$/FrontEnd/Admin/js/calendario.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/mortalidad.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/mortalidad.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/pesaje.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/pesaje.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/tratamientos.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/tratamientos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php" afterPath="$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/Colores" afterPath="$PROJECT_DIR$/FrontEnd/Colores" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/contact.php" afterPath="$PROJECT_DIR$/FrontEnd/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/css/fwslider.css" afterPath="$PROJECT_DIR$/FrontEnd/css/fwslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/css/style.css" afterPath="$PROJECT_DIR$/FrontEnd/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/delivery.php" afterPath="$PROJECT_DIR$/FrontEnd/delivery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/includes/footer.php" afterPath="$PROJECT_DIR$/FrontEnd/includes/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/includes/header.php" afterPath="$PROJECT_DIR$/FrontEnd/includes/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/index.php" afterPath="$PROJECT_DIR$/FrontEnd/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrontEnd/single.php" afterPath="$PROJECT_DIR$/FrontEnd/single.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,105 +58,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="101" column="56" lean-forward="false" selection-start-line="101" selection-start-column="56" selection-end-line="101" selection-end-column="56" />
+            <state relative-caret-position="493">
+              <caret line="29" column="92" lean-forward="false" selection-start-line="29" selection-start-column="92" selection-end-line="29" selection-end-column="92" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fwslider.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/css/fwslider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/includes/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="76" lean-forward="false" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delivery.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/delivery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/includes/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.default.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css">
+      <file leaf-file-name="productos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/productos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="2665" column="0" lean-forward="true" selection-start-line="2665" selection-start-column="0" selection-end-line="2665" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="403" column="20" lean-forward="true" selection-start-line="358" selection-start-column="12" selection-end-line="403" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calendario.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/js/calendario.js">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="3161" column="19" lean-forward="false" selection-start-line="3161" selection-start-column="19" selection-end-line="3161" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Colores" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/Colores">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1511487750606" expanded="true" signature="1406:1413" ph="«" />
-                <marker date="1511487750606" expanded="true" signature="2874:2881" ph="»" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gestionProductos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/gestionProductos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="38" />
+              <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mortalidad.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/mortalidad.php">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-275">
-              <caret line="98" column="46" lean-forward="false" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vacunacion.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="104" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tratamientos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/tratamientos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="132" column="52" lean-forward="false" selection-start-line="132" selection-start-column="52" selection-end-line="132" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pesaje.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/pesaje.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="131" column="38" lean-forward="false" selection-start-line="129" selection-start-column="32" selection-end-line="131" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alimentacion.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/alimentacion.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1567">
-              <caret line="164" column="46" lean-forward="false" selection-start-line="164" selection-start-column="46" selection-end-line="164" selection-end-column="46" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -146,6 +168,9 @@
       <find>hover</find>
       <find>arti</find>
       <find>table</find>
+      <find>cart</find>
+      <find>carito</find>
+      <find>carrit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -175,7 +200,6 @@
         <option value="$PROJECT_DIR$/FrontEnd/Admin/registroAnimales.php" />
         <option value="$PROJECT_DIR$/FrontEnd/Admin/modificar.php" />
         <option value="$PROJECT_DIR$/FrontEnd/Admin/css/custom.css" />
-        <option value="$PROJECT_DIR$/FrontEnd/includes/header.php" />
         <option value="$PROJECT_DIR$/FrontEnd/Admin/calendario.php" />
         <option value="$PROJECT_DIR$/FrontEnd/Admin/css/calendar.css" />
         <option value="$PROJECT_DIR$/FrontEnd/Admin/forms.php" />
@@ -197,6 +221,15 @@
         <option value="$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php" />
         <option value="$PROJECT_DIR$/FrontEnd/Admin/tratamientos.php" />
         <option value="$PROJECT_DIR$/FrontEnd/Admin/mortalidad.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/Colores" />
+        <option value="$PROJECT_DIR$/FrontEnd/includes/footer.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/css/fwslider.css" />
+        <option value="$PROJECT_DIR$/FrontEnd/index.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/css/style.css" />
+        <option value="$PROJECT_DIR$/FrontEnd/single.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/contact.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/delivery.php" />
+        <option value="$PROJECT_DIR$/FrontEnd/includes/header.php" />
       </list>
     </option>
   </component>
@@ -207,9 +240,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-24" />
+    <option name="y" value="40" />
     <option name="width" value="1375" />
     <option name="height" value="733" />
   </component>
@@ -228,6 +261,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -236,22 +270,10 @@
               <item name="proyectoAD" type="b2602c69:ProjectViewProjectNode" />
               <item name="proyectoAD" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="proyectoAD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyectoAD" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="FrontEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="proyectoAD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyectoAD" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="FrontEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,12 +282,12 @@
     <property name="jsx.switch.disabled" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\proyectoAD\FrontEnd" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Brenda\PhpstormProjects\proyectoAD\FrontEnd\Admin\js" />
       <recent name="C:\Users\Brenda\PhpstormProjects\proyectoAD\FrontEnd\Admin\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\proyectoAD\FrontEnd" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -311,7 +333,10 @@
       <workItem from="1511443711118" duration="4065000" />
       <workItem from="1511450549559" duration="3638000" />
       <workItem from="1511466237106" duration="198000" />
-      <workItem from="1511471592190" duration="11513000" />
+      <workItem from="1511471592190" duration="12510000" />
+      <workItem from="1511536669269" duration="1231000" />
+      <workItem from="1511747010848" duration="10299000" />
+      <workItem from="1511786068072" duration="3791000" />
     </task>
     <task id="LOCAL-00001" summary="Agregado el 80% de las vistas de el panel de administrador">
       <created>1511471954337</created>
@@ -320,18 +345,24 @@
       <option name="project" value="LOCAL" />
       <updated>1511471954337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Terminado de agregar paginación, alimentación, tratamientos y mortalidad, falta solo reportes y fases, implementado 90%">
+      <created>1511489903357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511489903357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40943000" />
+    <option name="totallyTimeSpent" value="57261000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="1" width="1375" height="733" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25018397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -342,6 +373,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -376,81 +408,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Agregado el 80% de las vistas de el panel de administrador" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregado el 80% de las vistas de el panel de administrador" />
+    <MESSAGE value="Terminado de agregar paginación, alimentación, tratamientos y mortalidad, falta solo reportes y fases, implementado 90%" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminado de agregar paginación, alimentación, tratamientos y mortalidad, falta solo reportes y fases, implementado 90%" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/vacunacion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="83" column="49" lean-forward="false" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/listadoGallinas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="80" lean-forward="false" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="126" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/modificar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="124" lean-forward="false" selection-start-line="72" selection-start-column="124" selection-end-line="72" selection-end-column="124" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="83" column="49" lean-forward="false" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/listadoGallinas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="44" column="80" lean-forward="true" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="126" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -458,7 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -466,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="72" column="124" lean-forward="false" selection-start-line="72" selection-start-column="124" selection-end-line="72" selection-end-column="124" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -474,7 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="57" column="35" lean-forward="false" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -512,7 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,7 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="57" column="35" lean-forward="true" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,7 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="72" column="124" lean-forward="false" selection-start-line="72" selection-start-column="124" selection-end-line="72" selection-end-column="124" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,20 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/calendar.php" />
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/calendar.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -595,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
           <caret line="65" column="20" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="65" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -611,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="51" column="35" lean-forward="false" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="39" column="35" lean-forward="false" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,7 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="234" column="28" lean-forward="false" selection-start-line="232" selection-start-column="22" selection-end-line="234" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,15 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="844">
           <caret line="88" column="53" lean-forward="false" selection-start-line="88" selection-start-column="53" selection-end-line="88" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Colores">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="2260" column="34" lean-forward="true" selection-start-line="2260" selection-start-column="34" selection-end-line="2260" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,75 +604,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="14" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/alimentacion.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1567">
+        <state relative-caret-position="2788">
           <caret line="164" column="46" lean-forward="false" selection-start-line="164" selection-start-column="46" selection-end-line="164" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/js/calendario.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1511487750606" expanded="true" signature="1406:1413" ph="«" />
-            <marker date="1511487750606" expanded="true" signature="2874:2881" ph="»" />
-          </folding>
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/js/calendario2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2136">
-          <caret line="160" column="17" lean-forward="false" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/js/calendario2.js" />
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/css/style.default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="2665" column="0" lean-forward="true" selection-start-line="2665" selection-start-column="0" selection-end-line="2665" selection-end-column="0" />
+        <state relative-caret-position="45305">
+          <caret line="2665" column="0" lean-forward="false" selection-start-line="2665" selection-start-column="0" selection-end-line="2665" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
+        <state relative-caret-position="1717">
           <caret line="101" column="56" lean-forward="false" selection-start-line="101" selection-start-column="56" selection-end-line="101" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/pesaje.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="2227">
           <caret line="131" column="38" lean-forward="false" selection-start-line="129" selection-start-column="32" selection-end-line="131" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/tratamientos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="2244">
           <caret line="132" column="52" lean-forward="false" selection-start-line="132" selection-start-column="52" selection-end-line="132" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,14 +669,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="104" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/Admin/mortalidad.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="98" column="46" lean-forward="false" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
+        <state relative-caret-position="467">
+          <caret line="141" column="6" lean-forward="false" selection-start-line="141" selection-start-column="6" selection-end-line="141" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/css/fwslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/Colores">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="3161" column="19" lean-forward="false" selection-start-line="3161" selection-start-column="19" selection-end-line="3161" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/productos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="403" column="20" lean-forward="true" selection-start-line="358" selection-start-column="12" selection-end-line="403" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="17" lean-forward="false" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="92" lean-forward="false" selection-start-line="29" selection-start-column="92" selection-end-line="29" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="76" lean-forward="false" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>

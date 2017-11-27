@@ -11,11 +11,11 @@
                 <div class="slide_content">
                     <div class="slide_content_wrap">
                         <!-- Text title -->
-                        <h4 class="title">Aluminium Club</h4>
+                        <h4 class="title">Gallinas y huevos de alta calidad</h4>
                         <!-- /Text title -->
                         
                         <!-- Text description -->
-                        <p class="description">Experiance ray ban</p>
+                        <p class="description">Criadas con el mejor cuidado</p>
                         <!-- /Text description -->
                     </div>
                 </div>
@@ -26,8 +26,8 @@
                 <img src="images/banner1.jpg" alt=""/>
                 <div class="slide_content">
                     <div class="slide_content_wrap">
-                        <h4 class="title">consectetuer adipiscing </h4>
-                        <p class="description">diam nonummy nibh euismod</p>
+                        <h4 class="title">Control total en alimentación, vacunas y tratamientos </h4>
+                        <p class="description">Garantizando la frescura y calidad del animal</p>
                     </div>
                 </div>
             </div>
@@ -44,11 +44,12 @@
 		  <div class="cont span_2_of_3">
 		  	<h2 class="head">Productos disponibles</h2>
 			<div class="top-box">
+
 			 <div class="col_1_of_3 span_1_of_3"> 
-			   <a href="single.html">
+			   <a href="single.php">
 				<div class="inner_content clearfix">
 					<div class="product_image">
-						<img src="images/pic.jpg" alt=""/>
+						<img src="images/carton.jpg" alt=""/>
 					</div>
                     <div class="sale-box"><span class="on_sale title_shop">New</span></div>	
                     <div class="price">
@@ -64,6 +65,7 @@
                    </div>
                  </a>
 				</div>
+
 			   <div class="col_1_of_3 span_1_of_3">
 			   	 <a href="single.html">
 					<div class="inner_content clearfix">
@@ -210,7 +212,7 @@
                    </a>
 				</div>
 				<div class="col_1_of_3 span_1_of_3">
-				  <a href="single.html">
+				  <a href="single.php">
 				 <div class="inner_content clearfix">
 					<div class="product_image">
 						<img src="images/pic8.jpg" alt=""/>
@@ -223,7 +225,7 @@
 							  <span class="actual">$12.00</span>
 							</div>
 						</div>
-						<div class="cart-right"> </div>
+						<div class="cart-right"></div>
 						<div class="clear"></div>
 					 </div>				
                    </div>
@@ -231,133 +233,7 @@
 				</div>
 				<div class="clear"></div>
 			</div>	
-		  <h2 class="head">Staff Pick</h2>
-		  <div class="top-box1">
-			  <div class="col_1_of_3 span_1_of_3">
-			  	 <a href="single.html">
-				 <div class="inner_content clearfix">
-					<div class="product_image">
-						<img src="images/pic8.jpg" alt=""/>
-					</div>
-                     <div class="sale-box"><span class="on_sale title_shop">New</span></div>	
-                    <div class="price">
-					   <div class="cart-left">
-							<p class="title">Lorem Ipsum simply</p>
-							<div class="price1">
-							  <span class="actual">$12.00</span>
-							</div>
-						</div>
-						<div class="cart-right"> </div>
-						<div class="clear"></div>
-					 </div>				
-                   </div>
-                   </a>
-				</div>
-				<div class="col_1_of_3 span_1_of_3">
-					 <a href="single.html">
-					<div class="inner_content clearfix">
-					<div class="product_image">
-						<img src="images/pic4.jpg" alt=""/>
-					</div>
-				    <div class="price">
-					   <div class="cart-left">
-							<p class="title">Lorem Ipsum simply</p>
-							<div class="price1">
-							  <span class="actual">$12.00</span>
-							</div>
-						</div>
-						<div class="cart-right"> </div>
-						<div class="clear"></div>
-					 </div>				
-                   </div>
-                   </a>
-				</div>
-				<div class="col_1_of_3 span_1_of_3">
-				 <a href="single.html">
-				 <div class="inner_content clearfix">
-					<div class="product_image">
-						<img src="images/pic2.jpg" alt=""/>
-					</div>
-                   	 <div class="sale-box"><span class="on_sale title_shop">New</span></div>	
-                    <div class="price">
-					   <div class="cart-left">
-							<p class="title">Lorem Ipsum simply</p>
-							<div class="price1">
-							  <span class="actual">$12.00</span>
-							</div>
-						</div>
-						<div class="cart-right"> </div>
-						<div class="clear"></div>
-					 </div>				
-                   </div>
-                   </a>
-				</div>
-				<div class="clear"></div>
-			</div>	
-	        <h2 class="head">New Products</h2>	
-		    <div class="section group">
-			  <div class="col_1_of_3 span_1_of_3">
-			  	 <a href="single.html">
-				 <div class="inner_content clearfix">
-					<div class="product_image">
-						<img src="images/pic5.jpg" alt=""/>
-					</div>
-                     <div class="sale-box"><span class="on_sale title_shop">New</span></div>	
-                    <div class="price">
-					   <div class="cart-left">
-							<p class="title">Lorem Ipsum simply</p>
-							<div class="price1">
-							  <span class="actual">$12.00</span>
-							</div>
-						</div>
-						<div class="cart-right"> </div>
-						<div class="clear"></div>
-					 </div>				
-                   </div>
-                   </a>
-				</div>
-				<div class="col_1_of_3 span_1_of_3">
-					<a href="single.html">
-					<div class="inner_content clearfix">
-					<div class="product_image">
-						<img src="images/pic2.jpg" alt=""/>
-					</div>
-					 <div class="sale-box"><span class="on_sale title_shop">New</span></div>	
-                    <div class="price">
-					   <div class="cart-left">
-							<p class="title">Lorem Ipsum simply</p>
-							<div class="price1">
-							  <span class="actual">$12.00</span>
-							</div>
-						</div>
-						<div class="cart-right"> </div>
-						<div class="clear"></div>
-					 </div>				
-                   </div>
-                   </a>
-				</div>
-				<div class="col_1_of_3 span_1_of_3">
-				 <a href="single.html">
-				 <div class="inner_content clearfix">
-					<div class="product_image">
-						<img src="images/pic3.jpg" alt=""/>
-					</div>
-                   	 <div class="sale-box"><span class="on_sale title_shop">New</span></div>	
-                    <div class="price">
-					   <div class="cart-left">
-							<p class="title">Lorem Ipsum simply</p>
-							<div class="price1">
-							  <span class="actual">$12.00</span>
-							</div>
-						</div>
-						<div class="cart-right"> </div>
-						<div class="clear"></div>
-					 </div>				
-                   </div>
-                   </a>
-				</div>
-				<div class="clear"></div>
-			</div>			 						 			    
+
 		  </div>
 			<div class="rsidebar span_1_of_left">
 				<div class="top-border"> </div>
@@ -379,17 +255,8 @@
              </div>
               <div class="btn"><a href="single.html">100% Calidad</a></div>
              </div>
-           <div class="top-border"> </div>
-			<div class="sidebar-bottom">
-			    <h2 class="m_1">Para recibir ofertas,<br> suscribete</h2>
-			    <p class="m_text">Introduce tu correo electronico, para recibir una alerta cada vez que exista una oferta.</p>
-			    <div class="subscribe">
-					 <form>
-					    <input name="userName" type="text" class="textbox">
-					    <input type="submit" value="Subscribete">
-					 </form>
-	  			</div>
-			</div>
+
+
 	    </div>
 	   <div class="clear"></div>
 	</div>

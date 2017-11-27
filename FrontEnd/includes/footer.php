@@ -4,12 +4,12 @@
             <div class="section group example">
                 <div class="col_1_of_2 span_1_of_2">
                     <ul class="f-list">
-                        <li><img src="./images/2.png"><span class="f-text">Entrega gratis por compras de $ 100</span><div class="clear"></div></li>
+                        <li><img class="iconsColor" src="./images/camion.png"><span class="f-text">Entrega gratis por compras de $ 100</span><div class="clear"></div></li>
                     </ul>
                 </div>
                 <div class="col_1_of_2 span_1_of_2">
                     <ul class="f-list">
-                        <li><img src="./images/3.png"><span class="f-text">Llamenos! a 222-555-6666 </span><div class="clear"></div></li>
+                        <li><img class="iconsColor" src="./images/call.png"><span class="f-text">Llamenos! a 222-555-6666 </span><div class="clear"></div></li>
                     </ul>
                 </div>
                 <div class="clear"></div>

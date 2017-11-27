@@ -15,7 +15,9 @@
 }
 
 #fwslider .slide img {
-    width:100%;
+    width: 2000px;
+    height: 700px;
+
 }
 
 #fwslider .slidePrev {

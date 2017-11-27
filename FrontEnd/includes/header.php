@@ -27,30 +27,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!--end slider -->
     <script src="./js/jquery.easydropdown.js"></script>
 
+
 </head>
 <body>
 <div class="header-top">
     <div class="wrap">
-        <div class="header-top-left">
-            <div class="box">
-                <select tabindex="4" class="dropdown">
-                    <option value="" class="label" value="">Lenguage :</option>
-                    <option value="1">English</option>
-                    <option value="1">Peso</option>
-                    <option value="2">French</option>
-                    <option value="3">German</option>
-                </select>
-            </div>
-            <div class="box1">
-                <select tabindex="4" class="dropdown">
-                    <option value="" class="label" value="">Moneda :</option>
-                    <option value="1">$ Dollar</option>
-                    <option value="2">€ Euro</option>
-                    <option value="3">$ Peso</option>
-                </select>
-            </div>
-            <div class="clear"></div>
-        </div>
+
         <div class="cssmenu">
             <ul>
                 <li class="active"><a href="login.php">Cuenta</a></li> |
@@ -75,25 +57,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <li><a class="color4" href="about.php">Sobre nosostros</a>
 
                     </li>
-                    <li><a class="color5" href="other.php">Productos</a>
+                    <li><a class="color5" href="productos.php">Productos</a>
                         <div class="megapanel">
-                            <div class="col1">
-                                <div class="h_nav">
-                                    <h4>Servicio de granja</h4>
-                                    <ul>
-                                        <li><a href="other.php">Produccion</a></li>
-                                        <li><a href="other.php">Cuidado</a></li>
-                                        <li><a href="other.php">Crianza </a></li>
 
-                                    </ul>
-                                </div>
-                            </div>
                             <div class="col1">
                                 <div class="h_nav">
                                     <h4>Gallinas</h4>
                                     <ul>
-                                        <li><a href="other.php">Compra</a></li>
-                                        <li><a href="other.php">Venta</a></li>
+                                        <li><a href="productos.php">Compra</a></li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -101,15 +73,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <div class="h_nav">
                                     <h4>Huevos</h4>
                                     <ul>
-                                        <li><a href="other.php">Pedido masivo</a></li>
-                                        <li><a href="other.php">Por carton</a></li>
-                                        <li><a href="other.php">Ofertas</a></li>
+                                        <li><a href="productos.php">Compra</a></li>
+
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </li>
-                    <li><a class="color6" href="other.php">Servicios</a></li>
+                    <li><a class="color6" href="contact.php">Contacto</a></li>
 
                 </ul>
             </div>
@@ -121,15 +92,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div id="response"> </div>
             </div>
             <div class="tag-list">
-                <ul class="icon1 sub-icon1 profile_img">
-                    <li><a class="active-icon c1" href="#"> </a>
-                        <ul class="sub-icon1 list">
-                            <li><h3>sed diam nonummy</h3><a href=""></a></li>
-                            <li><p>Lorem ipsum dolor sit amet, consectetuer  <a href="">adipiscing elit, sed diam</a></p></li>
 
-                        </ul>
-                    </li>
-                </ul>
                 <ul class="icon1 sub-icon1 profile_img">
                     <li><a class="active-icon c2" href="#"> </a>
                         <ul class="sub-icon1 list">

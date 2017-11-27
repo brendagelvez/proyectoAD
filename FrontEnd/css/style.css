@@ -312,7 +312,7 @@ body{
 	vertical-align: middle;
 }
 .c2{
-	background: url(../images/cart.png) no-repeat 0px 1px;
+	background: url(../images/carito.png) no-repeat 0px 1px;
 	width:42px;
 	height:42px;
 	display: inline-block;
@@ -481,7 +481,7 @@ p.title a:hover{
 }
 .cart-right {
 	float: right;
-	background: url(../images/cart2.png)2px 0px #f9c62d;
+	background: url(../images/carrito2.png)2px 0px #f9c62d;
 	border-radius: 100px;
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
@@ -490,10 +490,13 @@ p.title a:hover{
 	height: 40px;
 	text-align: center;
 	cursor:pointer;
+
 }
+
 .span_1_of_3:hover .cart-right{
 	float: right;
-	background: url(../images/cart3.png)2px 0px #000;
+	background: url(../images/carrito1.png)2px 0px #fff;
+
 	border-radius: 100px;
 	width: 40px;
 	height: 40px;
@@ -3137,6 +3140,26 @@ ul.delivery-list li a:hover{
 	.box {
 		width: 55.5%;
 	}
+}
+.iconsColor{
+
+	width: 74px;
+	height: 74px;
+
+
+}
+.singleResize{
+}
+.singleResize img{
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 550px;
+}
+
+.singleResize img:hover{
+	box-shadow: 0 0 2px 1px #e8a13e;
+	cursor: pointer;
 }
 
 
