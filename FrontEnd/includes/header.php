@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Web Avicola | Productos</title>
+    <title>Web Avicola</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link href="./css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -24,6 +24,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <script src="./js/jquery-ui.min.js"></script>
     <script src="./js/css3-mediaqueries.js"></script>
     <script src="./js/fwslider.js"></script>
+    <script src="./js/cantidad.js"></script>
     <!--end slider -->
     <script src="./js/jquery.easydropdown.js"></script>
 

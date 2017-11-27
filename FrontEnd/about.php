@@ -1,10 +1,10 @@
 <?php include "includes/header.php" ?>
        <div class="login">
           <div class="wrap">
-				<ul class="breadcrumb breadcrumb__t"><a class="home" href="#">Home</a>  / About</ul>
+
 				<div class="section group">
 				   <div class="labout span_1_of_about">
-					 <h3>Testimonials</h3>
+					 <h3>Testimonios</h3>
 					  <div class="testimonials ">
 						<div class="testi-item">
 						<blockquote class="testi-item_blockquote">
@@ -25,11 +25,11 @@
 					   </div>
 				    </div>
 				    <div class="cont span_2_of_about">
-				       <h3>Our Mission</h3>
+				       <h3>Nuestra misión</h3>
 					   	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 					   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 				       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-				        <h5 class="m_6">Meet Our Team</h5>	
+				        <h5 class="m_6">Conoce nuestras metodologias de trabajo</h5>
 				     <div class="section group">
 						<div class="col_1_of_about-box span_1_of_about-box">
 						   <a class="popup-with-zoom-anim" href="#small-dialog3">  <span class="rollover"></span><img src="images/a-img.jpg" title="continue" alt=""/></a>
@@ -40,17 +40,17 @@
 								 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie.</p>
 								</div>
 							 </div>
-							 <h4 class="m_7"><a href="#">consectetuer adipiscing</a></h4>
+							 <h4 class="m_7"><a href="#">Crianza</a></h4>
 							 <p>Lorem ipsum dolor consectetur adipisicing elit, sed do eiusmod.</p>
 					     </div>
 						<div class="col_1_of_about-box span_1_of_about-box">
 						   <a class="popup-with-zoom-anim" href="#small-dialog3">  <span class="rollover"></span><img src="images/a-img1.jpg" title="continue" alt=""/></a>
-		                    <h4 class="m_7"><a href="#">consectetuer adipiscing</a></h4>
+		                    <h4 class="m_7"><a href="#">Cuidado</a></h4>
 							 <p>Lorem ipsum dolor consectetur adipisicing elit, sed do eiusmod.</p>
 					     </div>
 						<div class="col_1_of_about-box span_1_of_about-box">
 						   <a class="popup-with-zoom-anim" href="#small-dialog3">  <span class="rollover"></span><img src="images/a-img2.jpg" title="continue" alt=""/></a>
-		                    <h4 class="m_7"><a href="#">consectetuer adipiscing</a></h4>
+		                    <h4 class="m_7"><a href="#">Asistencia veterinaria</a></h4>
 							 <p>Lorem ipsum dolor consectetur adipisicing elit, sed do eiusmod.</p>
 					     </div>
 				        <div class="clear"></div> 

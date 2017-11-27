@@ -11,6 +11,9 @@
 		         <div class="desc1 span_3_of_2">
 		         	<h3 class="m_3">Lorem ipsum dolor sit amet</h3>
 		             <p class="m_5">Rs. 888 <span class="reducedfrom">Rs. 999</span></p>
+                     <div id="app">
+                     </div>
+
 		         	 <div class="btn_form">
 						<form>
 							<input type="submit" value="Agregar al carrito" title="">

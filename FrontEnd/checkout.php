@@ -1,5 +1,6 @@
 <?php include "includes/header.php" ?>
 
+
     <div class="mens">
         <div class="main">
             <div class="wrap">
@@ -67,11 +68,43 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="button1">
-                            <a href="realizarpago.php"><input type="submit" name="Submit" value="Confirmar compra"></a>
-                        </div>
+
 
                         <div class="clear"></div>
+                    </div>
+                    <h2 class="head">Total</h2>
+                    <div class="top-box1">
+
+                        <div class="clear"></div>
+                        <table id="customers">
+                            <tr>
+                                <th>Producto</th>
+                                <th>Cantidad</th>
+                                <th>Total</th>
+                            </tr>
+                            <tr>
+                                <td>Carton Huevos</td>
+                                <td>3</td>
+                                <td>$30.000</td>
+                            </tr>
+                            <tr>
+                                <td>Carton Huevos</td>
+                                <td>3</td>
+                                <td>$30.000</td>
+                            </tr>
+                            <tr>
+                                <td>Carton Huevos</td>
+                                <td>3</td>
+                                <td>$30.000</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Total</td>
+                                <td>$90.000</td>
+                            </tr>
+
+                        </table>
+
                     </div>
 
 
