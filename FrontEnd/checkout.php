@@ -21,6 +21,11 @@
                                             <div class="price1">
                                                 <span class="actual">$12.00</span>
                                             </div>
+                                            <div class="btn_car">
+                                                <form action="productos.php" method="post">
+                                                    <input type="submit" value="Eliminar" title="">
+                                                </form>
+                                            </div>
                                         </div>
 
                                         <div class="clear"></div>
@@ -39,6 +44,11 @@
                                             <p class="title">Lorem Ipsum simply</p>
                                             <div class="price1">
                                                 <span class="actual">$12.00</span>
+                                            </div>
+                                            <div class="btn_car">
+                                                <form action="productos.php" method="post">
+                                                    <input type="submit" value="Eliminar" title="">
+                                                </form>
                                             </div>
                                         </div>
 
@@ -60,6 +70,11 @@
                                             <div class="price1">
                                                 <span class="reducedfrom">$66.00</span>
                                                 <span class="actual">$12.00</span>
+                                            </div>
+                                            <div class="btn_car">
+                                                <form action="productos.php" method="post">
+                                                    <input type="submit" value="Eliminar" title="">
+                                                </form>
                                             </div>
                                         </div>
 

@@ -83,7 +83,7 @@
             <ul class="list-unstyled">
                 <li class="active"> <a href="index.php"><i class="icon-home"></i>Inicio</a></li>
 
-                <li> <a href="tables.php"> <i class="fa fa-user-o"></i>Gestion de usuarios</a></li>
+                <li> <a href="gestionUsuarios.php"> <i class="fa fa-user-o"></i>Gestion de usuarios</a></li>
                 <li><a href="#dashvariants" aria-expanded="false" data-toggle="collapse"> <i class="fa fa-list-alt"></i>Gestion de productos </a>
                     <ul id="dashvariants" class="collapse list-unstyled">
                         <li><a href="registroProductos.php">Registro de productos</a></li>
