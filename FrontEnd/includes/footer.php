@@ -193,5 +193,6 @@
         </div>
     </div>
 </div>
+<script src="./js/cantidad.js"></script>
 </body>
 </html>

@@ -1720,6 +1720,23 @@ h3.m_3{
 	text-transform:uppercase;
 	margin-bottom:10px;
 }
+input.m_5 {
+	color:#777;
+	font-size:29px;
+
+	border: 0px;
+	margin-right: 300px;
+}
+input[type="number"]:disabled {
+	background: #fff;
+}
+output.m_5{
+	color:#777;
+	font-size:29px;
+
+	border: 0px;
+
+}
 p.m_5{
 	font-size:1.8em;
 	color:#555;
@@ -1896,6 +1913,13 @@ ul.seller li{
 	display: block;
 	float: left;
 	margin:-1% 0 1% 2.6%;
+}
+.ajustar{
+	margin-top: 0px;
+	margin-right: 500px;
+}
+.checkAjuste{
+	margin-left: 700px;
 }
 .btn_form{
 	padding:4% 0;
@@ -3188,60 +3212,78 @@ ul.delivery-list li a:hover{
 	color: #fff;
 }
 
-.quantity-input {
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-	border-radius: 3px;
-}
-.quantity-input:focus {
-	background: red;
+/*Estilos cantidad*/
+
+.quantity {
+	position: relative;
+	margin-top: 20px;
+	margin-bottom: 50px;
+
 }
 
-.quantity-input__modifier,
-.quantity-input__screen {
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button
+{
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+input[type=number]
+{
+	-moz-appearance: textfield;
+}
+
+.quantity input {
+	width: 45px;
+	height: 42px;
+	line-height: 1.65;
+	float: left;
+	display: block;
+	padding: 0;
+	margin: 0;
+	padding-left: 20px;
+	border: 1px solid #eee;
+
+}
+
+.quantity input:focus {
+	outline: 0;
+}
+
+.quantity-nav {
+	float: left;
+	position: relative;
+	height: 42px;
+}
+
+.quantity-button {
+	position: relative;
+	cursor: pointer;
+	border-left: 1px solid #eee;
+	width: 20px;
+	text-align: center;
+	color: #333;
+	font-size: 13px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+	line-height: 1.7;
+	-webkit-transform: translateX(-100%);
+	transform: translateX(-100%);
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
+	-o-user-select: none;
 	user-select: none;
-	outline: none;
 }
 
-.quantity-input__modifier {
-	padding: .7rem;
-	width: 3rem;
-	font-size: 1.5rem;
-	background: #f3f3f3;
-	color: #888;
-	border: 0 solid #dbdbdb;
-	text-align: center;
-	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
-	cursor: pointer;
-}
-.quantity-input__modifier:hover {
-	background: #dadada;
-	color: #555555;
-}
-.quantity-input__modifier--left {
-	border-radius: 3px 0 0 3px;
-}
-.quantity-input__modifier--right {
-	border-radius: 0 3px 3px 0;
+.quantity-button.quantity-up {
+	position: absolute;
+	height: 50%;
+	top: 0;
+	border-bottom: 1px solid #eee;
 }
 
-.quantity-input__screen {
-	width: 4rem;
-	padding: .7rem;
-	font-size: 1.5rem;
-	border: 0;
-	border-top: 0 solid #dbdbdb;
-	border-bottom: 0 solid #dbdbdb;
-	text-align: center;
+.quantity-button.quantity-down {
+	position: absolute;
+	bottom: -1px;
+	height: 50%;
 }

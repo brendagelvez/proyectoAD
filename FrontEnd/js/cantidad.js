@@ -1,71 +1,35 @@
-"use strict";
+jQuery('<div class="quantity-nav"><div class="quantity-button quantity-up">+</div><div class="quantity-button quantity-down">-</div></div>').insertAfter('.quantity input');
+jQuery('.quantity').each(function() {
+    var spinner = jQuery(this),
+        input = spinner.find('input[type="number"]'),
+        btnUp = spinner.find('.quantity-up'),
+        btnDown = spinner.find('.quantity-down'),
+        min = input.attr('min'),
+        max = input.attr('max');
 
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+    btnUp.click(function() {
+        var oldValue = parseFloat(input.val());
+        if (oldValue >= max) {
+            var newVal = oldValue;
+        } else {
+            var newVal = oldValue + 1;
+        }
+        spinner.find("input").val(newVal);
+        spinner.find("input").trigger("change");
+    });
 
-function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+    btnDown.click(function() {
+        var oldValue = parseFloat(input.val());
+        if (oldValue <= min) {
+            var newVal = oldValue;
+        } else {
+            var newVal = oldValue - 1;
+        }
+        spinner.find("input").val(newVal);
+        spinner.find("input").trigger("change");
+    });
 
-function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
-
-var Quantity = function (_React$Component) {
-    _inherits(Quantity, _React$Component);
-
-    function Quantity(props) {
-        _classCallCheck(this, Quantity);
-
-        var _this = _possibleConstructorReturn(this, _React$Component.call(this, props));
-
-        _this.state = { value: 1 };
-        _this.increment = _this.increment.bind(_this);
-        _this.decrement = _this.decrement.bind(_this);
-        return _this;
-    }
-
-    Quantity.prototype.increment = function increment() {
-        this.setState(function (prevState) {
-            value: ++prevState.value;
-        });
-    };
-
-    Quantity.prototype.decrement = function decrement() {
-        this.setState(function (prevState) {
-            value: prevState.value > 0 ? --prevState.value : 0;
-        });
-    };
-
-    Quantity.prototype.render = function render() {
-
-        return React.createElement(
-            "div",
-            null,
-            React.createElement(
-                "p",
-                null,
-                "Set the quantity"
-            ),
-            React.createElement(
-                "div",
-                { className: "quantity-input" },
-                React.createElement(
-                    "button",
-                    { className: "quantity-input__modifier quantity-input__modifier--left", onClick: this.decrement },
-                    "—"
-                ),
-                React.createElement("input", { className: "quantity-input__screen", type: "text", value: this.state.value, readonly: true }),
-                React.createElement(
-                    "button",
-                    { className: "quantity-input__modifier quantity-input__modifier--right", onClick: this.increment },
-                    "＋"
-                )
-            )
-        );
-    };
-
-    return Quantity;
-}(React.Component);
-
-ReactDOM.render(React.createElement(Quantity, null), document.getElementById('app'));
-
-
+});
 
 
 

@@ -9,19 +9,50 @@
 		     	 <div class="clearfix"></div>
             </div>
 		         <div class="desc1 span_3_of_2">
-		         	<h3 class="m_3">Lorem ipsum dolor sit amet</h3>
-		             <p class="m_5">Rs. 888 <span class="reducedfrom">Rs. 999</span></p>
-                     <div id="app">
+		         	<h3 class="m_3">Carton 12x12 huevos criollos</h3>
+
+                     <form action="/action_page.php" id="numform" onchange="x.value=parseInt(a.value)*parseInt(b.value)">
+                         <table>
+                         <tr>
+                             <th><p class="m_5">$</p></th>
+                         <th>
+                         <input class="m_5" type="number" id="a" name="a" value="12000" disabled>
+                         </th>
+
+                         </tr>
+                         </table>
+                         <div class="quantity">
+                             <p>Seleccione una  cantidad</p>
+                             <input type="number" id="b" name="b" min="1" max="9" step="1" value="1">
+
+                         </div>
+
+
+                     </form>
+                     <p class="m_5">Total:</p>
+                     <table>
+                         <tr>
+                             <th><p class="m_5">$</p></th>
+                             <th>
+                                 <output class="m_5" form="numform" name="x" for="a b">0</output>
+                             </th>
+
+                         </tr>
+                     </table>
+
+
+                     <br>
+                     <div class="ajustar btn_form">
+                         <form>
+                             <input type="submit" value="Agregar al carrito" title="">
+                         </form>
                      </div>
 
-		         	 <div class="btn_form">
-						<form>
-							<input type="submit" value="Agregar al carrito" title="">
-						</form>
-					 </div>
-					<span class="m_link"><a href="#">Inicia sesión para agregarlo a tu lista de deseos</a> </span>
-				     <p class="m_text2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit </p>
+
+
+
 			     </div>
+
 			   <div class="clear"></div>	
 	    <div class="clients">
 	    <h3 class="m_3">5 Otros productos en la misma categoria</h3>
@@ -84,10 +115,7 @@
      	<h3 class="m_3">Detalles del producto</h3>
      	<p class="m_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
      </div>
-     <div class="toogle">
-     	<h3 class="m_3">Más información</h3>
-     	<p class="m_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
-     </div>
+
       </div>
          <div class="rsingle span_1_of_single">
              <h5 class="m_1">Categorias</h5>

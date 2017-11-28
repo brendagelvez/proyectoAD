@@ -106,6 +106,11 @@
                         </table>
 
                     </div>
+                    <div class="checkAjuste btn_form">
+                        <form>
+                            <input type="submit" value="Confirmar" title="">
+                        </form>
+                    </div>
 
 
                         <div class="clear"></div>

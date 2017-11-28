@@ -24,7 +24,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <script src="./js/jquery-ui.min.js"></script>
     <script src="./js/css3-mediaqueries.js"></script>
     <script src="./js/fwslider.js"></script>
-    <script src="./js/cantidad.js"></script>
+    <script src="js/cantidad.js"></script>
     <!--end slider -->
     <script src="./js/jquery.easydropdown.js"></script>
 
@@ -37,7 +37,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="cssmenu">
             <ul>
                 <li class="active"><a href="login.php">Cuenta</a></li> |
-                <li><a href="checkout.php">Lista de deseo</a></li> |
                 <li><a href="checkout.php">Checkout</a></li> |
                 <li><a href="login.php">Iniciar sesion</a></li> |
                 <li><a href="register.php">Registrarse</a></li>
