@@ -194,5 +194,6 @@
     </div>
 </div>
 <script src="./js/cantidad.js"></script>
+<script src="./js/calendario.js"></script>
 </body>
 </html>
