@@ -10,9 +10,12 @@
          public $contraseña;
          public $ciudad;
          public $numero;
+         public $tipo;
+         public $cedula;
 
 
-         public function __construct($nombre,$compañia,$correo,$contraseña,$direccion,$departamento,$ciudad,$numero){
+
+         public function __construct($tipo,$nombre,$documento,$compañia,$correo,$contraseña,$direccion,$departamento,$ciudad,$numero){
              $this->nombre=$nombre;
              $this->compañia=$compañia;
              $this->correo=$correo;
@@ -21,6 +24,9 @@
              $this->departamento=$departamento;
              $this->ciudad=$ciudad;
              $this->numero=$numero;
+             $this->tipo=$tipo;
+             $this->cedula=$documento;
+
             
          }
 

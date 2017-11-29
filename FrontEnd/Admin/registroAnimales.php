@@ -27,26 +27,18 @@
                       <h3 class="h4">Registro de gallinas</h3>
                     </div>
                     <div class="card-body">
-                      <form class="form-horizontal">
-                        <div class="form-group row">
-                          <label class="col-sm-3 form-control-label">Identificación</label>
-                          <div class="col-sm-9">
-                            <input type="text" placeholder="Identificación correspondiente..." class="form-control">
-                          </div>
-                        </div>
-                          <div class="line"></div>
+                      <form class="form-horizontal" id="registro-animales">
+
                         <div class="form-group row">
                           <label class="col-sm-3 form-control-label">Clase</label>
-                          <div class="col-sm-9">
+                          <div class="col-sm-9" name="tipo">
 
-                            <div class="i-checks">
-                              <input id="radioCustom2" type="radio" checked="" value="option2   " name="a" class="radio-template">
-                              <label for="radioCustom2">Ponedora</label>
-                            </div>
-                              <div class="i-checks">
-                                  <input id="radioCustom2" type="radio" checked="" value="option2" name="a" class="radio-template">
-                                  <label for="radioCustom2">No ponedora</label>
-                              </div>
+                              <select name="tipo" class="form-control" id="tipoVenta">
+                                  <option value="null">Seleccione el Tipo</option>
+                                  <option value="ponedora">Ponedora</option>
+                                  <option value="no ponedora">No Ponedora</option>
+
+                              </select>
 
                           </div>
                         </div>
@@ -54,14 +46,14 @@
                           <div class="form-group row">
                               <label class="col-sm-3 form-control-label">Cantidad de huevos</label>
                               <div class="col-sm-9">
-                                  <input type="number" placeholder="Número de huevos que pone por día" class="form-control">
+                                  <input name="cantidad" type="number" placeholder="Número de huevos que pone por día" class="form-control">
                               </div>
                           </div>
                           <div class="line"></div>
                           <div class="form-group row">
                               <label class="col-sm-3 form-control-label">Edad de la gallina:</label>
                               <div class="col-sm-9">
-                                  <input type="number" placeholder="Edad en meses" class="form-control">
+                                  <input name="edad" type="number" placeholder="Edad en meses" class="form-control">
                               </div>
                           </div>
 
@@ -74,6 +66,7 @@
                             <button type="submit" class="btn btn-primary">Registrar</button>
                           </div>
                         </div>
+                          <input type="hidden" value="regisAni" name="mode">
                       </form>
                     </div>
                   </div>

@@ -27,45 +27,32 @@
                       <h3 class="h4">Registre un producto</h3>
                     </div>
                     <div class="card-body">
-                      <form class="form-horizontal">
-                        <div class="form-group row">
-                          <label class="col-sm-3 form-control-label">Id</label>
-                          <div class="col-sm-9">
-                            <input type="text" placeholder="Id generado automaticamente/implementar" class="form-control">
-                          </div>
-                        </div>
-                          <div class="line"></div>
+                      <form id="registro-productos" class="form-horizontal" method="post">
+
                         <div class="form-group row">
                           <label class="col-sm-3 form-control-label">Nombre</label>
                           <div class="col-sm-9">
 
-                              <input type="text" placeholder="Nombre o titulo que tendra el producto" class="form-control">
+                              <input name="name" type="text" placeholder="Nombre o titulo que tendra el producto" class="form-control">
 
                           </div>
                         </div>
-                        <div class="line"></div>
-                          <div class="form-group row">
-                              <label class="col-sm-3 form-control-label">Imagen</label>
-                              <div class="col-sm-9">
-                                  <input type="file" class="form-control"><small class="form-text">Seleccione la imagen que describira el producto.</small>
-                              </div>
-                          </div>
 
                           <div class="line"></div>
                           <div class="form-group row">
                               <label class="col-sm-3 form-control-label">Descripción</label>
                               <div class="col-sm-9">
-                                  <input type="text" class="form-control">
+                                  <input name="descripcion" type="text" class="form-control">
                               </div>
                           </div>
                           <div class="line"></div>
                           <div class="form-group row">
                               <label class="col-sm-3 form-control-label">Tipo de venta</label>
                               <div class="col-sm-9">
-                                  <select name="account" class="form-control" id="tipoVenta">
-                                      <option>Carton</option>
-                                      <option>Unidad</option>
-                                      <option>Al por mayor</option>
+                                  <select name="tipo" class="form-control" id="tipoVenta">
+                                      <option value="null">Seleccione el Tipo</option>
+                                      <option value="unidad">Unidad</option>
+                                      <option value="por mayor">Al por mayor</option>
 
                                   </select>
 
@@ -76,7 +63,7 @@
                           <div class="form-group row">
                               <label class="col-sm-3 form-control-label">Cantidad Stock</label>
                               <div class="col-sm-9">
-                                 <input type="number" class="form-control">
+                                 <input name="cantidad" type="number" class="form-control">
 
                               </div>
 
@@ -86,7 +73,7 @@
                           <div class="form-group row">
                               <label class="col-sm-3 form-control-label">Precio</label>
                               <div class="col-sm-9">
-                                  <input type="number" class="form-control">
+                                  <input name="precio" type="number" class="form-control">
                               </div>
                           </div>
 
@@ -99,6 +86,7 @@
                             <button type="submit" class="btn btn-primary">Registrar</button>
                           </div>
                         </div>
+                          <input type="hidden" value="regisProd" name="mode">
                       </form>
                     </div>
                   </div>

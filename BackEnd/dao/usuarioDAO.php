@@ -6,8 +6,23 @@
 
       public function crearU($pDTO){
           $this->connect();
-          $consulta="INSERT INTO usuarios(nombre,compania,correo,contrasena,direccion,departamento,ciudad,numero)VALUES"
-              . " ('$pDTO->nombre','$pDTO->compañia','$pDTO->correo','$pDTO->contraseña','$pDTO->direccion','$pDTO->departamento','$pDTO->ciudad','$pDTO->numero')";
+          $consulta="INSERT INTO usuarios(tipo,nombre,compania,correo,contrasena,direccion,departamento,ciudad,numero)VALUES"
+              . " (0,'$pDTO->nombre','$pDTO->compañia','$pDTO->correo','$pDTO->contraseña','$pDTO->direccion','$pDTO->departamento','$pDTO->ciudad','$pDTO->numero')";
+          $query = $this->query($consulta);
+          $this->terminate();
+
+          if( $query ){
+              return "ok";
+          }else{
+              return "error";
+              throw new mysqli_sql_exception( "Error al registrar el usuario.");
+          }
+      }
+
+      public function creaAdm($pDTO){
+          $this->connect();
+          $consulta="INSERT INTO usuarios(tipo,nombre,cedula,correo,contrasena)VALUES"
+              . " ('$pDTO->tipo','$pDTO->nombre','$pDTO->cedula','$pDTO->correo','$pDTO->contraseña')";
           $query = $this->query($consulta);
           $this->terminate();
 
@@ -33,6 +48,21 @@
           }
       }
 
+      public function loginA($email,$contraseña){
+          $this->connect();
+          $consulta=" SELECT * from usuarios WHERE correo='$email'and contrasena='$contraseña' and tipo = 1 ORDER BY idusuario DESC LIMIT 1";
+          $query = $this->query($consulta);
+          $this->terminate();
+
+          if( $row = mysqli_fetch_array( $query )[0] != '' ){
+              $ok = "ok";
+              return $ok.$email.$contraseña;
+          }else{
+              return "error";
+              throw new mysqli_sql_exception( "Error al consultar ese partido.");
+          }
+      }
+
       public function regMessage($nombre,$compañia,$correo,$asunto,$mensaje){
           $this->connect();
           $consulta="INSERT INTO mensajes(nombre,compania,correo,asunto,mensaje)VALUES"
@@ -47,6 +77,73 @@
               throw new mysqli_sql_exception( "Error al registrar el usuario.");
           }
       }
+
+
+      public function consultUser()
+      {
+          $resultado = Array();
+          $this->connect();
+          $consulta = "SELECT idusuario,nombre,compania,correo,direccion,numero from usuarios where nombre <> '' and tipo <> 1";
+          $query = $this->query($consulta);
+          $this->terminate();
+
+          if (mysqli_num_rows($query) > 0) {
+              while ($fila = mysqli_fetch_assoc($query)) {
+                  array_push($resultado, $fila);
+              }
+          }
+          return $resultado;
+      }
+
+      public function consultProd()
+      {
+          $resultado = Array();
+          $this->connect();
+          $consulta = "SELECT idproductos,nombre,descripcion,tipo,cantidad,precio from productos where nombre <> '' ";
+          $query = $this->query($consulta);
+          $this->terminate();
+
+          if (mysqli_num_rows($query) > 0) {
+              while ($fila = mysqli_fetch_assoc($query)) {
+                  array_push($resultado, $fila);
+              }
+          }
+          return $resultado;
+      }
+
+      public function creaPro($nombre,$descripcion,$tipop,$cantidad,$precio){
+          $this->connect();
+          $consulta="INSERT INTO productos(nombre,descripcion,tipo,cantidad,precio)VALUES"
+              . " ('$nombre','$descripcion','$tipop',$cantidad,$precio)";
+          $query = $this->query($consulta);
+          $this->terminate();
+
+          if( $query ){
+              return "ok";
+          }else{
+              return "error";
+              throw new mysqli_sql_exception( "Error al registrar el usuario.");
+          }
+      }
+
+      public function creaGa($tipo,$cantidad,$edad){
+          $this->connect();
+          $consulta="INSERT INTO gallinas(clase,cantidad,edad)VALUES"
+              . " ('$tipo',$cantidad,'$edad')";
+          $query = $this->query($consulta);
+          $this->terminate();
+
+          if( $query ){
+              return "ok";
+          }else{
+              return "error";
+              throw new mysqli_sql_exception( "Error al registrar el usuario.");
+          }
+      }
+
+      //----------------------------------------------------------------------------------------------------
+
+
 
     // Realiza la insercion en la base de datos de un entrenador que entrena a un jugador en determinada fecha
     public function registryJE($jeDTO){

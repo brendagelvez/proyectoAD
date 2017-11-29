@@ -18,15 +18,17 @@
             <div class="col-lg-6 bg-white">
               <div class="form d-flex align-items-center">
                 <div class="content">
-                  <form id="login-form" method="post">
+                  <form id="login-form-admin" method="post">
                     <div class="form-group">
-                      <input id="login-username" type="text" name="loginUsername" required="" class="input-material">
-                      <label for="login-username" class="label-material">Usuario</label>
+                      <input id="login-username" type="text" name="name" required="" class="input-material">
+                      <label for="login-username" class="label-material">Correo</label>
                     </div>
                     <div class="form-group">
-                      <input id="login-password" type="password" name="loginPassword" required="" class="input-material">
+                      <input id="login-password" type="password" name="password" required="" class="input-material">
                       <label for="login-password" class="label-material">Contraseña</label>
-                    </div><a id="login" href="index.php" class="btn btn-primary">Iniciar Sesión</a>
+                    </div>
+                      <input type="submit" value="Iniciar Sesión" class="btn btn-primary">
+                      <input type="hidden" value="loginAdmin" name="mode">
                     <!-- This should be submit button but I replaced it with <a> for demo purposes-->
                   </form><br><a href="register.php" class="signup">Registrate</a>
                 </div>

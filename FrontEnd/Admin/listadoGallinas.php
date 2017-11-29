@@ -37,7 +37,7 @@
                             <th scope="row">1</th>
                             <td>13 meses</td>
                               <td><button type="button" class="btn btn-success" onclick="window.location.href='modificar.php'">Modificar</button>
-                              <button type="button" class="paddingBotones btn btn-danger">Eliminar</button>
+
                           </td>
 
                           </tr>
@@ -45,14 +45,14 @@
                             <th scope="row">2</th>
                             <td>12 meses</td>
                             <td><button type="button" class="btn btn-success">Modificar</button>
-                                <button type="button" class="paddingBotones btn btn-danger">Eliminar</button></td>
+
 
                           </tr>
                           <tr>
                             <th scope="row">3</th>
                             <td>4 meses</td>
                             <td><button type="button" class="btn btn-success">Modificar</button>
-                                <button type="button" class="paddingBotones btn btn-danger">Eliminar</button></td>
+                                
 
                           </tr>
                         </tbody>

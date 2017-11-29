@@ -18,25 +18,25 @@
             <div class="col-lg-6 bg-white">
               <div class="form d-flex align-items-center">
                 <div class="content">
-                  <form id="register-form">
+                  <form id="register-form-admin" method="post">
                     <div class="form-group">
-                      <input id="register-firstname" type="text" name="registerFirstName" required class="input-material">
+                      <input id="register-firstname" type="text" name="name" required class="input-material">
                       <label for="register-firstname" class="label-material">Nombres</label>
                     </div>
                     <div class="form-group">
-                      <input id="register-lastname" type="text" name="registerLastName" required class="input-material">
+                      <input id="register-lastname" type="text" name="lastname" required class="input-material">
                       <label for="register-lastname" class="label-material">Apellidos</label>
                     </div>
                     <div class="form-group">
-                      <input id="register-id" type="number" name="registerId" required class="input-material">
+                      <input id="register-id" type="number" name="document" required class="input-material">
                       <label for="register-id" class="label-material">Cedula</label>
                     </div>
                     <div class="form-group">
-                      <input id="register-email" type="email" name="registerEmail" required class="input-material">
+                      <input id="register-email" type="email" name="email" required class="input-material">
                       <label for="register-email" class="label-material">Dirección de correo</label>
                     </div>
                     <div class="form-group">
-                      <input id="register-passowrd" type="password" name="registerPassword" required class="input-material">
+                      <input id="register-passowrd" type="password" name="password" required class="input-material">
                       <label for="register-passowrd" class="label-material">Contraseña</label>
                     </div>
                     <div class="form-group terms-conditions">
@@ -44,6 +44,7 @@
                       <label for="license">Estoy de acuerdo con los terminos y condiciones</label>
                     </div>
                     <input id="register" type="submit" value="Registrar" class="btn btn-primary">
+                      <input type="hidden" value="regisAdmin" name="mode">
                   </form><small>¿Ya tienes una cuenta? </small><a href="login.php" class="signup">Inicia Sesión</a>
                 </div>
               </div>

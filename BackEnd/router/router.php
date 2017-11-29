@@ -45,54 +45,40 @@
                    $mensaje = $_POST['message'];
 
                    $this->user->registrarMensaje($nombre,$compañia,$correo,$asunto,$mensaje);
-                   //eliminar partido
-               }else if($_POST['mode']=="eliminarPartido"){
-                   $idpa = $_POST['delete_txt'];
-                   $this->user->eliminarPartido($idpa);
-                   //este no se usa
-               }else if($_POST['mode']=="updatePartido"){
-                   $idpa = $_POST['partido_txt'];
-                   $idT = $_POST['torneo_txt'];
-                   $idM = $_POST['modalidad_txt'];
-                   $idE = $_POST['etapa_txt'];
-                   $arbitro=$_POST['arbitro_txt'];
-                   if($idM==1 || $idM==2){
-                        $idJugador1 = $_POST['jugador1_txt'];
-                        $idJugador2 = $_POST['jugador2_txt'];
-                        $jugadores= array($idJugador1,$idJugador2);
-                   }else{
-                       $idJugador1 = $_POST['jugador1_txt'];
-                        $idJugador2 = $_POST['jugador2_txt'];
-                        $idJugador3 = $_POST['jugador3_txt'];
-                        $idJugador4 = $_POST['jugador4_txt'];
-                        $jugadores= array($idJugador1,$idJugador2,$idJugador3,$idJugador4);
-                   }
-                   $this->user->updatePartido($idT,$idM,$idE,$jugadores,$arbitro,$idpa);
+                   //
+               }else if($_POST['mode']=="loginAdmin"){
+                   $email = $_POST['email'];
+                   $contraseña = $_POST['password'];
 
-               }else if($_POST['mode']=="updatePartido2"){
-                   $idP = $_POST['partido_txt'];
-                   $idT = $_POST['torneo_txt'];
-                   $idM = $_POST['modalidad_txt'];
-                   $idE = $_POST['etapa_txt'];
-                   
-                   if(isset($_POST['jugadorM_txt'])&&isset($_POST['jugadorMN_txt'])){
-                   $idJM=$_POST['jugadorM_txt'];
-                   $idJMN=$_POST['jugadorMN_txt'];
-                        $this->user->updateJP($idT,$idM,$idE,$idP,$idJM,$idJMN);
-                    
-                   }else if(isset($_POST['arbitroM_txt'])&&isset($_POST['arbitroMN_txt'])){
-                   $idAM=$_POST['arbitroM_txt'];
-                   $idAMN=$_POST['arbitroMN_txt'];
-                        $this->user->updateAP($idT,$idM,$idE,$idP,$idAM,$idAMN);
-                   }
-                  
-                   
+                   $this->user->loguearAdmin($email,$contraseña);
 
-               }else if($_POST['mode']=="modificarJE"){
-                   $idJ = $_POST['jugador_txt'];
-                   $idEM = $_POST['entrenadorM_txt'];
-                   $idEMN = $_POST['entrenadorMN_txt'];
-                   $this->user->updateJE($idJ,$idEM,$idEMN);
+               }else if($_POST['mode']=="regisAdmin"){
+                   $nombre = $_POST['name'];
+                   $lastname = $_POST['lastname'];
+                   $correo = $_POST['email'];
+                   $contraseña = $_POST['password'];
+                   $document = $_POST['document'];
+                   $tipo = 1;
+
+                   $this->user->registrarAdmin($tipo,$nombre,$correo,$contraseña,$lastname,$document);
+
+               }else if($_POST['mode']=="regisProd"){
+                   $nombre = $_POST['name'];
+                   $descripcion = $_POST['descripcion'];
+                   $tipop = $_POST['tipo'];
+                   $cantidad = $_POST['cantidad'];
+                   $precio = $_POST['precio'];
+
+                   $this->user->registrarProd($nombre,$descripcion,$tipop,$cantidad,$precio);
+
+               }else if($_POST['mode']=="regisAni"){
+                   $tipo = $_POST['tipo'];
+                   $cantidad = $_POST['cantidad'];
+                   $edad = $_POST['edad'];
+
+
+                   $this->user->registrarGa($tipo,$cantidad,$edad);
+
                }
                
                
@@ -101,11 +87,11 @@
                // peticiones de consultas que deben ser enrutadas
                if(isset($_GET['mode'])){
                 
-               if($_GET['mode']=="consTorneo"){
-                   $this->user->consultarTorneos();
-               }else if($_GET['mode']=="consModalidad"){
-                   $idTorneo = $_GET['id'];
-                   $this->user->consultarModalidadesTorneo($idTorneo);
+               if($_GET['mode']=="consTabla"){
+                   $this->user->consUsuarios();
+               }else if($_GET['mode']=="consTablaProd"){
+                   $this->user->consProductos();
+
 
                }else if($_GET['mode']=="consEtapa"){
                    $idTorneo = $_GET['idT'];
