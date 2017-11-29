@@ -27,6 +27,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <script src="js/cantidad.js"></script>
     <!--end slider -->
     <script src="./js/jquery.easydropdown.js"></script>
+    <!-- js del registro -->
+    <script src="js/registro.js"></script>
+    <script src="js/login2.js"></script>
+    <script src="js/contactMessage.js"></script>
 
 
 </head>
@@ -95,16 +99,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
                 <ul class="icon1 sub-icon1 profile_img">
                     <li><a class="active-icon c2" href="#"> </a>
-                        <ul class="sub-icon1 list">
+                        <!--<ul class="sub-icon1 list"> efecto bacano de mostrar una sub lista en el carrito con los productos
                             <li><h3>Productos</h3><a href=""></a></li>
                             <li><p><a href="">Carton de huevos 1: $ 12.000</a></p></li>
                             <li><p><a href="">Carton de huevos 2: $ 12.000</a></p></li>
                             <li><p><a href="">Carton de huevos 3: $ 12.000</a></p></li>
 
-                        </ul>
+                        </ul>-->
                     </li>
                 </ul>
-                <ul class="last"><li><a href="checkout.php">Carrito(3)</a></li></ul>
+                <ul class="last"><li><a href="checkout.php">Carrito(0)</a></li></ul>
             </div>
         </div>
         <div class="clear"></div>

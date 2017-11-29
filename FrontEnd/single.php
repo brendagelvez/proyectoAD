@@ -23,7 +23,7 @@
                          </table>
                          <div class="quantity">
                              <p>Seleccione una  cantidad</p>
-                             <input type="number" id="b" name="b" min="1" max="9" step="1" value="1">
+                             <input type="number" id="b" name="b" min="1" max="30" step="1" value="1">
 
                          </div>
 

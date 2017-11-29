@@ -1,23 +1,26 @@
 <?php
 
-  class UDTO{
+  class usuarioDTO{
 
-         public $idUsuario;
-         public $documento;
+         public $compañia;
          public $nombre;
-         public $apellido;
+         public $direccion;
          public $correo;
-         public $tipo;
+         public $departamento;
          public $contraseña;
+         public $ciudad;
+         public $numero;
 
 
-         public function __construct($documento, $nombre, $apellido, $correo, $tipo, $contraseña){
-             $this->documento=$documento;
+         public function __construct($nombre,$compañia,$correo,$contraseña,$direccion,$departamento,$ciudad,$numero){
              $this->nombre=$nombre;
-             $this->apellido=$apellido;
+             $this->compañia=$compañia;
              $this->correo=$correo;
-             $this->tipo=$tipo;
              $this->contraseña=$contraseña;
+             $this->direccion=$direccion;
+             $this->departamento=$departamento;
+             $this->ciudad=$ciudad;
+             $this->numero=$numero;
             
          }
 

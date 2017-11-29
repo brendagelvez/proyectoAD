@@ -18,36 +18,33 @@
                if($_POST['mode']=="regUsuario"){
                    //registro de un usuario
 
-                   $documento = $_POST['documento_txt'];
-                   $nombre = $_POST['nombre_txt'];
-                   $apellido = $_POST['apellido_txt'];
-                   $correo = $_POST['correo_txt'];
-                   $tipo = $_POST['tipo_txt'];
-                   $contraseña = $_POST['contraseña_txt'];
+                   $nombre = $_POST['name'];
+                   $compañia = $_POST['nameCompany'];
+                   $correo = $_POST['email'];
+                   $contraseña = $_POST['password'];
+                   $direccion = $_POST['direction'];
+                   $departamento = $_POST['department'];
+                   $ciudad = $_POST['city'];
+                   $indicativo = $_POST['indicative'];
+                   $numerotelefonico = $_POST['numberPhone'];
 
-                   $this->user->registrarUsuario($documento,$nombre,$apellido,$correo,$tipo,$contraseña);
+                   $this->user->registrarUsuario($nombre,$compañia,$correo,$contraseña,$direccion,$departamento,$ciudad,$indicativo,$numerotelefonico);
 
-               }else if($_POST['mode']=="regJugador"){
-                   //registro de un jugador
-                   $nombre = $_POST['nombreJ_txt'];
-                   $edad = $_POST['edadJ_txt'];
-                   $idNacionalidades = $_POST['nacinalidades_txt'];
+               }else if($_POST['mode']=="loginUser"){
+                   //login de un usuario
+                   $nombre = $_POST['email'];
+                   $contraseña = $_POST['password'];
 
-               }else if($_POST['mode']=="regArbitro"){
-                   //registro de un arbitro
-                   $nombre = $_POST['nombreA_txt'];
-                   $nacionalidad = $_POST['nacionalidad_txt'];
+                   $this->user->loguearUsuario($nombre,$contraseña);
 
-               }else if($_POST['mode']=="regEntrenador"){
-                   //registro de un entrenador
-                   $nombre = $_POST['nombreE_txt'];
-                   $nacionalidad = $_POST['nacionalidad_txt'];
+               }else if($_POST['mode']=="regMens"){
+                   $nombre = $_POST['name'];
+                   $compañia = $_POST['company'];
+                   $correo = $_POST['email'];
+                   $asunto = $_POST['subject'];
+                   $mensaje = $_POST['message'];
 
-               }else if($_POST['mode']=="regEJ"){
-                   //asignacion de un entrenador a un jugador
-                   $idEntrenador = $_POST['entrenador_txt'];
-                   $idJugador = $_POST['jugador_txt'];
-                   $this->user->registrarJE($idEntrenador,$idJugador);
+                   $this->user->registrarMensaje($nombre,$compañia,$correo,$asunto,$mensaje);
                    //eliminar partido
                }else if($_POST['mode']=="eliminarPartido"){
                    $idpa = $_POST['delete_txt'];

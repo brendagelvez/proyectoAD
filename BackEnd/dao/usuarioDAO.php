@@ -1,15 +1,14 @@
 <?php
 
  include_once "dao/model.php";
-  class UDAO extends Model{
+  class usuarioDAO extends Model{
 
 
       public function crearU($pDTO){
           $this->connect();
-          $consulta=" INSERT INTO usuario(documento,nombre,apellido,correo,tipo,contraseña)VALUES 
-            ('".$pDTO->documento."','".$pDTO->nombre."','".$pDTO->apellido."','".$pDTO->correo."',
-              '".$pDTO->tipo."','".$pDTO->contraseña."')";
-          $query = $this-> query($consulta);
+          $consulta="INSERT INTO usuarios(nombre,compania,correo,contrasena,direccion,departamento,ciudad,numero)VALUES"
+              . " ('$pDTO->nombre','$pDTO->compañia','$pDTO->correo','$pDTO->contraseña','$pDTO->direccion','$pDTO->departamento','$pDTO->ciudad','$pDTO->numero')";
+          $query = $this->query($consulta);
           $this->terminate();
 
           if( $query ){
@@ -19,7 +18,35 @@
               throw new mysqli_sql_exception( "Error al registrar el usuario.");
           }
       }
+      public function loginU($email,$contraseña){
+          $this->connect();
+          $consulta=" SELECT * from usuarios WHERE correo='$email'and contrasena='$contraseña'ORDER BY idusuario DESC LIMIT 1";
+          $query = $this->query($consulta);
+          $this->terminate();
 
+          if( $row = mysqli_fetch_array( $query )[0] != '' ){
+              $ok = "ok";
+              return $ok;
+          }else{
+              return "error";
+              throw new mysqli_sql_exception( "Error al consultar ese partido.");
+          }
+      }
+
+      public function regMessage($nombre,$compañia,$correo,$asunto,$mensaje){
+          $this->connect();
+          $consulta="INSERT INTO mensajes(nombre,compania,correo,asunto,mensaje)VALUES"
+              . " ('$nombre','$compañia','$correo','$asunto','$mensaje')";
+          $query = $this->query($consulta);
+          $this->terminate();
+
+          if( $query ){
+              return "ok";
+          }else{
+              return "error";
+              throw new mysqli_sql_exception( "Error al registrar el usuario.");
+          }
+      }
 
     // Realiza la insercion en la base de datos de un entrenador que entrena a un jugador en determinada fecha
     public function registryJE($jeDTO){

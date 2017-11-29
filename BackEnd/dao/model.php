@@ -6,8 +6,8 @@
     public function connect()
     {
         //$this->connection = mysqli_connect("host", "user", "password", "bd_name") or die(("Error " . mysqli_error($connect)));
-        
-        $this->connection = mysqli_connect("localhost", "root", "ufps1151267", "gra") or die(("Error..."));
+        //$this->connection = mysqli_connect("sql200.epizy.com", "epiz_20606903", "ufps1151267", "epiz_20606903_sicoavi") or die(("Error al conectarse a la base de datos"));
+        $this->connection = mysqli_connect("localhost", "root", "ufps1151267", "sicoavi") or die(("Error " . mysqli_error($connect)));
     }
 
     public function query($sql)

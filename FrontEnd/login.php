@@ -27,7 +27,8 @@
 							    <p id="login-form-remember">
 							      <label for="modlgn_remember"><a href="#">¿Olvidaste tu contraseña? </a></label>
 							   </p>
-							    <input type="submit" name="Submit" class="button" value="Iniciar Sesion"><div class="clear"></div>
+							    <input type="submit" name="Submit" class="button" value="Iniciar Sesion"><!--<div class="clear"></div>-->
+                                <input type="hidden" value="loginUser" name="mode">
 							 </div>
 						  </fieldset>
 						 </form>

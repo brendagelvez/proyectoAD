@@ -28,7 +28,7 @@
                       <label for="login-password" class="label-material">Contraseña</label>
                     </div><a id="login" href="index.php" class="btn btn-primary">Iniciar Sesión</a>
                     <!-- This should be submit button but I replaced it with <a> for demo purposes-->
-                  </form><a href="#" class="forgot-pass">Olvidaste tu contraseña?</a><br><a href="register.php" class="signup">Registrate</a>
+                  </form><br><a href="register.php" class="signup">Registrate</a>
                 </div>
               </div>
             </div>
