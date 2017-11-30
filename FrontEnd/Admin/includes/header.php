@@ -28,8 +28,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="./js/regisProd.js"></script>
-    <script src="./js/regisAni.js"></script>
-    <script src="./js/tablascarga.js"></script>
+        <script src="./js/tablascarga.js"></script>
 
 
 </head>

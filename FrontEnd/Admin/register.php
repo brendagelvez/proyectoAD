@@ -40,7 +40,7 @@
                       <label for="register-passowrd" class="label-material">Contraseña</label>
                     </div>
                     <div class="form-group terms-conditions">
-                      <input id="license" type="checkbox" class="checkbox-template">
+                      <input id="license" type="checkbox" class="checkbox-template" required>
                       <label for="license">Estoy de acuerdo con los terminos y condiciones</label>
                     </div>
                     <input id="register" type="submit" value="Registrar" class="btn btn-primary">

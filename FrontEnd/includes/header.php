@@ -13,7 +13,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <link href="./css/style.css" rel="stylesheet" type="text/css" media="all" />
     <link href="./css/form.css" rel="stylesheet" type="text/css" media="all" />
     <link href='http://fonts.googleapis.com/css?family=Exo+2' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="./js/jquery1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <!-- start menu -->
     <link href="./css/megamenu.css" rel="stylesheet" type="text/css" media="all" />
     <script type="text/javascript" src="./js/megamenu.js"></script>
@@ -28,9 +28,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!--end slider -->
     <script src="./js/jquery.easydropdown.js"></script>
     <!-- js del registro -->
-    <script src="js/registro.js"></script>
+    <!--<script src="js/registro.js"></script>-->
     <script src="js/login2.js"></script>
-    <script src="js/contactMessage.js"></script>
+
 
 
 </head>
@@ -108,7 +108,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         </ul>-->
                     </li>
                 </ul>
-                <ul class="last"><li><a href="checkout.php">Carrito(0)</a></li></ul>
+                <ul class="last"><li><a href="checkout.php">Carrito(1)</a></li></ul>
             </div>
         </div>
         <div class="clear"></div>

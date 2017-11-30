@@ -52,7 +52,7 @@
                             <th scope="row">3</th>
                             <td>4 meses</td>
                             <td><button type="button" class="btn btn-success">Modificar</button>
-                                
+
 
                           </tr>
                         </tbody>

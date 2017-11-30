@@ -20,7 +20,7 @@
                 <div class="content">
                   <form id="login-form-admin" method="post">
                     <div class="form-group">
-                      <input id="login-username" type="text" name="name" required="" class="input-material">
+                      <input id="login-username" type="text" name="email" required="" class="input-material">
                       <label for="login-username" class="label-material">Correo</label>
                     </div>
                     <div class="form-group">

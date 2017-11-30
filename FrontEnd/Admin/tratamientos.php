@@ -35,19 +35,14 @@
                                             </div>
                                             <div class="modal-body">
                                                 <p></p>
-                                                <form>
+                                                <form id="modalregtratamiento">
                                                     <div class="form-group">
                                                         <label>Id Gallina</label>
-                                                        <select name="account" class="form-control">
-                                                            <option>2</option>
-                                                            <option>3</option>
-                                                            <option>5</option>
-                                                            <option>6</option>
-                                                        </select>
+                                                        <input name="idgallina" type="text"class="form-control">
                                                     </div>
                                                     <div class="form-group">
                                                         <label>Tratamiento</label>
-                                                        <select name="account" class="form-control">
+                                                        <select name="tipo" class="form-control">
                                                             <option>Revision</option>
                                                             <option>Inyección</option>
                                                             <option>Cuarentena</option>
@@ -58,7 +53,7 @@
                                                     </div>
                                                     <div class="form-group">
                                                         <label>Nivel de urgencia</label>
-                                                        <select name="account" class="form-control">
+                                                        <select name="nivel" class="form-control">
                                                             <option>Leve</option>
                                                             <option>Medio</option>
                                                             <option>Alto</option>
@@ -68,19 +63,18 @@
                                                     </div>
                                                     <div class="form-group">
                                                         <label>Fecha</label>
-                                                        <input type="date"class="form-control">
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label>Hora</label>
-                                                        <input type="time"class="form-control">
+                                                        <input name="fecha" type="date"class="form-control">
                                                     </div>
 
-                                                </form>
-                                            </div>
+
+
                                             <div class="modal-footer">
                                                 <button type="button" data-dismiss="modal" class="btn btn-secondary">Close</button>
                                                 <button type="button" class="btn btn-primary">Agregar</button>
                                             </div>
+                                                    <input type="hidden" value="regisTrat" name="mode"
+                                                </form>
+                                          </div>
                                         </div>
                                     </div>
                                 </div>

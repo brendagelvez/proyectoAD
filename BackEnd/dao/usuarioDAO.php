@@ -56,7 +56,7 @@
 
           if( $row = mysqli_fetch_array( $query )[0] != '' ){
               $ok = "ok";
-              return $ok.$email.$contraseña;
+              return $ok;
           }else{
               return "error";
               throw new mysqli_sql_exception( "Error al consultar ese partido.");
@@ -130,6 +130,21 @@
           $this->connect();
           $consulta="INSERT INTO gallinas(clase,cantidad,edad)VALUES"
               . " ('$tipo',$cantidad,'$edad')";
+          $query = $this->query($consulta);
+          $this->terminate();
+
+          if( $query ){
+              return "ok";
+          }else{
+              return "error";
+              throw new mysqli_sql_exception( "Error al registrar el usuario.");
+          }
+      }
+
+      public function creaTra($id,$tipo,$nivel,$fecha){
+          $this->connect();
+          $consulta="INSERT INTO tratamientos(id_gallina,tipo,nivel,fecha)VALUES"
+              . " ($id,$tipo,'$nivel','$fecha')";
           $query = $this->query($consulta);
           $this->terminate();
 

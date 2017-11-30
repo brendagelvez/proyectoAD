@@ -27,7 +27,7 @@
                       <h3 class="h4">Registro de gallinas</h3>
                     </div>
                     <div class="card-body">
-                      <form class="form-horizontal" id="registro-animales">
+                      <form id="registro-animales" method="post">
 
                         <div class="form-group row">
                           <label class="col-sm-3 form-control-label">Clase</label>
@@ -37,7 +37,6 @@
                                   <option value="null">Seleccione el Tipo</option>
                                   <option value="ponedora">Ponedora</option>
                                   <option value="no ponedora">No Ponedora</option>
-
                               </select>
 
                           </div>
@@ -56,8 +55,6 @@
                                   <input name="edad" type="number" placeholder="Edad en meses" class="form-control">
                               </div>
                           </div>
-
-
 
                         <div class="line"></div>
                         <div class="form-group row">

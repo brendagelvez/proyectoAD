@@ -76,8 +76,16 @@
                    $cantidad = $_POST['cantidad'];
                    $edad = $_POST['edad'];
 
-
                    $this->user->registrarGa($tipo,$cantidad,$edad);
+
+               }else if($_POST['mode']=="regisTrat"){
+                   $id = $_POST['idgallina'];
+                   $tipo = $_POST['tipo'];
+                   $nivel = $_POST['nivel'];
+                   $fecha = $_POST['fecha'];
+
+
+                   $this->user->registrarTra($id,$tipo,$nivel,$fecha);
 
                }
                

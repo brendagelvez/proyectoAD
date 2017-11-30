@@ -210,6 +210,31 @@
          }
 
      }
+     //---------------Gallina---------------------------
+
+     public function registrarTra($id,$tipo,$nivel,$fecha)
+     {
+
+
+         if ($id != "" && $tipo != "" && $fecha != "" && $nivel!= "") {
+
+             try {
+                 $uDAO = new usuarioDAO;
+                 //$uDTO = new usuarioDTO ($nombre,$descripcion,$tipop,$cantidad,$precio);
+                 $response = $uDAO->creaGa($id,$tipo,$nivel,$fecha);
+                 echo json_encode($response);
+
+             } catch (mysqli_sql_exception $e) {
+                 http_response_code(200);
+                 $array = array("error" => $e->getMessage());
+
+             }
+
+         } else {
+             echo "complete todos los campos...";
+         }
+
+     }
  }
 ?>
  
